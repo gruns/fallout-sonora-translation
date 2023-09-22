@@ -1,0 +1,3 @@
+{20} {} {Boynica}
+{21} {} {Czek, raz, dwa, tak!}
+{22} {} {Tak. Dobrze!}

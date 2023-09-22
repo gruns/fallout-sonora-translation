@@ -1,0 +1,113 @@
+# ----------------------------------------------
+# Umiejêtnoœci
+# ----------------------------------------------
+{100} {} {Broñ lekka}
+{101} {} {Broñ ciê¿ka}
+{102} {} {Broñ energetyczna}
+{103} {} {Walka wrêcz}
+{104} {} {Broñ bia³a}
+{105} {} {Rzucanie}
+{106} {} {Pierwsza pomoc}
+{107} {} {Leczenie}
+{108} {} {Skradanie}
+{109} {} {Otwieranie zamków}
+{110} {} {Kradzie¿}
+{111} {} {Pu³apki}
+{112} {} {Nauki œcis³e}
+{113} {} {Naprawa}
+{114} {} {Retoryka}
+{115} {} {Handel}
+{116} {} {Hazard}
+{117} {} {Survival}
+# ----------------------------------------------
+# Opis umiejêtnoœci
+# ----------------------------------------------
+{200} {} {Umiejetnoœci obs³ugi, pielêgnacji i ogólna wiedza na temat broni krótkiej, jednorêcznej: rewolwery, pistolety, pistolety maszynowe.}
+{201} {} {Obs³uga, pielêgnacja i ogólna wiedza na temat broni d³ugolufowej, dwurêcznej: strzelby, karabiny szturmowe, granatniki.}
+{202} {} {Pos³ugiwanie siê broni¹ energetyczn¹, pielêgnacja i wiedza ogólna: broñ laserowa, plazmowa, pulsacyjna.}
+{203} {} {Umiejêtnoœci i techniki róznych rodzajów sztuk walki, czyli walki rêkami i stopami, a tak¿e broni¹ bia³¹ (na przyk³ad kastety).}
+{204} {} {U¿ywanie broni bia³ej, takiej jak no¿e, m³oty, w³ócznie, maczugi itp.}
+{205} {} {Umiejêtnoœæ pos³ugiwania siê granatami i inn¹ broni¹ do rzucania.}
+{206} {} {Praktyczne umiejêtnoœci udzielania pierwszej pomocy - zatrzymywanie krwawienia, szyny, repozycjonowanie stawów i wszystko, co przed³u¿y ¿ycie umieraj¹cej osoby.}
+{207} {} {Praktyczne umiejêtnoœci w leczeniu powa¿nych chorób i urazów, a tak¿e wykonywaniu z³o¿onych operacji, takich jak implantacja, protetyka i neurochirurgia.}
+{208} {} {Umiejêtnoœæ poruszania siê po cichu i pozostania niewykrytym. Jeœli siê powiedzie, bêdzie znacznie trudniej Ciê znaleŸæ. Nie mo¿esz jednoczeœnie biegaæ i korzystaæ z ukrycia.}
+{209} {} {Mo¿liwoœæ otwierania zamków bez odpowiedniego klucza. Stosowane w odniesieniu do zamków mechanicznych i elektronicznych.}
+{210} {} {Umiejêtnoœæ przyw³aszczania cudzych rzeczy. S³u¿y do usuwania nadmiaru przedmiotów u ludzi i nie-ludzi.}
+{211} {} {Umiejêtnoœæ przeprowadzania ró¿nych operacji sabota¿owych, na przyk³ad przeszukiwania, rozbrajania lub zastawiania pu³apek.}
+{212} {} {Wiedza, zakres œwiadomoœci, myœlenie dedukcyjne i wszystko, co pomo¿e ci zdobyæ now¹ wiedzê i przeanalizowaæ to, co ju¿ masz.}
+{213} {} {Praktyczne umiejêtnoœci w zakresie naprawy lub demonta¿u ró¿nego wyposa¿enia.}
+{214} {} {Umiejêtnoœæ komunikowania siê w ukierunkowany i skuteczny sposób. Umiejêtnoœæ przekonywania innych, ¿e Twój punkt widzenia jest w³aœciwy. Umiejêtnoœæ k³amania i nie dania siê z³paæ na k³amstwie.}
+{215} {} {Mo¿liwoœæ wp³ywania na negocjacje handlowe na Twoj¹ korzyœæ, a tak¿e zdobywania zaufania ludzi z karawany i anga¿owania siê w szerszy dialog z kupcami.}
+{216} {} {Wiedza i praktyczne umiejêtnoœci zwi¹zane z hazardem, sportem i zak³adami.}
+{217} {} {Praktyczna wiedza o przyrodzie i umiejêtnoœci przetrwania w dziczy œwiata post-nuklearnego.}
+# ----------------------------------------------
+# Atrybuty umiejêtnoœci (wymagania dotyczace statystyk)
+# ----------------------------------------------
+{300} {} {+ (4 x ZR)}
+{301} {} {+ (2 x ZR)}
+{302} {} {+ (2 x ZR)}
+{303} {} {+ (2 x (ZR + SI))}
+{304} {} {+ (2 x (ZR + SI))}
+{305} {} {+ (4 x ZR)}
+{306} {} {+ (2 x (PE + IN))}
+{307} {} {+ (PE + IN)}
+{308} {} {+ (3 x ZR)}
+{309} {} {+ (PE + ZR)}
+{310} {} {+ (3 x ZR)}
+{311} {} {+ (PE + ZR)}
+{312} {} {+ (4 x IN)}
+{313} {} {+ (3 x IN)}
+{314} {} {+ (5 x CH)}
+{315} {} {+ (4 x CH)}
+{316} {} {+ (5 x SZ)}
+{317} {} {+ (2 x (WT + IN))}
+# ----------------------------------------------
+# Umiejêtnoœæ uzywania wskazowek
+# ----------------------------------------------
+{500} {} {Leczysz %d PW.}
+{501} {} {Ju¿ i tak wygl¹dasz zdrowo.}
+{502} {} {%s ju¿ i tak wygl¹da zdrowo.}
+{503} {} {Nie udaje ci siê zwieñczyæ zabiegu jakimkolwiek sukcesem.}
+{505} {} {Otrzymujesz %d PD za doskonalenie twoich umiejêtnoœci przez praktykê.}
+{510} {} {\nskill_use: zastosowano niew³aœciw¹ umiejêtnoœæ.}
+{512} {} {Nie jesteœ w stanie uzdrowiæ trupa.}
+{513} {} {Pozwól martwym spoczywaæ w spokoju.}
+{514} {} {Nie ¿yje, musisz siê z tym pogodziæ.}
+{520} {} {Przywracasz pe³niê sprawnoœci twojej %s.}
+{521} {} {Przywracasz pe³niê sprawnoœci %s twojego pacjenta.}
+{525} {} {Nie udaje ci siê przywróciæ pe³ni sprawnoœci twojej %s.}
+{526} {} {Nie udaje ci siê przywróciæ pe³ni sprawnoœci %s twojego pacjenta.}
+{530} {} {uszkodzonej ga³ce ocznej}
+{531} {} {okaleczonej lewej rêce}
+{532} {} {okaleczonej prawej rêce}
+{533} {} {okaleczonej prawej nodze}
+{534} {} {okaleczonej lewej nodze}
+{550} {} {Nie mo¿esz otworzyæ zamka.}
+{551} {} {Nie mo¿esz zlokalizowaæ pu³apki.}
+{552} {} {Nic nie mo¿esz znaleŸæ.}
+{553} {} {Nie mo¿na naprawiæ.}
+{570} {} {Zosta³eœ przy³apany na kradzie¿y % s.}
+{571} {} {Kradniesz % s przedmiot.}
+{572} {} {Zosta³eœ przy³apany na podk³adaniu przedmiotu % s.}
+{573} {} {Stawiasz przedmiot % s za sob¹.}
+{590} {} {Wyczerpa³eœ zasoby tej umiejêtnoœci. Poczekaj chwilê.}
+{591} {} {Jesteœ zbyt zmêczony.}
+{592} {} {Mo¿esz umrzeæ z przepracowania.}
+{600} {} {Nie masz wystarczaj¹cych umiejêtnoœci, aby leczyæ takie obra¿enia.}
+{601} {} {Tego robota nie mo¿na naprawiæ.}
+# ----------------------------------------------
+# Repliki czlonkow druzyny, gdy u¿ywaj¹ umiejêtnoœci
+# ----------------------------------------------
+# Spróbujê
+{1000} {} {Pozwól, ¿e pomogê.}
+{1001} {} {Mogê to zrobiæ.}
+{1002} {} {Wszystko jest jasne.}
+{1003} {} {Chetnie pomogê.}
+{1004} {} {OK.}
+{1005} {} {Spróbujê.}
+# Gracz chce to zrobiæ
+{1100} {} {Jeœli masz jakieœ problemy, daj mi znaæ.}
+{1101} {} {Czy wszystko jest jasne?}
+{1102} {} {Jak sobie ¿yczysz.}
+{1103} {} {Có¿, spróbujê.}
+{1104} {} {Spróbujê.}

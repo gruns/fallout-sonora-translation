@@ -1,0 +1,760 @@
+############################################################
+#
+#   ?????? ? Pip-Boy
+#
+############################################################
+
+#
+# ????????????
+#
+{100} {} {Szczêœliwego Nowego Roku!}
+{101} {} {Weso³ych Walentynek!}
+{102} {} {1 kwietnia!}
+{103} {} {Szczêœliwego Dnia Kapitana!}
+{104} {} {Weso³ego Dnia Niepodleg³oœci!}
+{105} {} {Weso³ego Halloween!}
+{106} {} {Weso³ego Swiêta Dziêkczynienia!}
+{107} {} {Weso³ych Swi¹t!}
+
+#
+# ????????? ?????????
+#
+{200} {} {NEXT}
+{201} {} {WSTECZ}
+{202} {} {JOBS}
+{203} {} {Obecnie nie ma pracy.}
+{204} {} {WSKAZOWKI}
+{205} {} {KARTY}
+{206} {} {RECORDS}
+{207} {} {DANE}
+{208} {} {}
+{209} {} {}
+
+{210} {} {Status}
+{211} {} {DANE}
+{212} {} {from}
+{213} {} {Page}
+{214} {} {GOTOWE}
+{215} {} {Nie mo¿esz tu odpocz¹c!}
+
+#
+# ?????????
+#
+{300} {} {ALARM}
+{301} {} {Zdrowie}
+{302} {} {Dziesiêæ minut odpoczynku}
+{303} {} {Trzydzieœci minut odpoczynku}
+{304} {} {Odpocznij godzinê}
+{305} {} {Odpocznij dwie godziny}
+{306} {} {Odpocznij trzy godziny}
+{307} {} {Odpocznij cztery godziny}
+{308} {} {Odpocznij piêæ godzin}
+{309} {} {Odpocznij szeœæ godzin}
+{310} {} {Odpocznij do rana (08:00)}
+{311} {} {Odpocznij do po³udnia (12:00)}
+{312} {} {Odpocznij do wieczora (18:00)}
+{313} {} {Odpocznij do pó³nocy (0:00)}
+{314} {} {Odpocznij do wyzdrowienia}
+{315} {} {Odpocznij, a¿ wszyscy wyzdrowiej¹}
+
+#
+# ???????????? ????????????
+#
+{500} {} {Warning}
+{501} {} {Wprowadzenie}
+{502} {} {Powrót do domu}
+{503} {} {Pogrom w Villi}
+{504} {} {Wygnanie}
+{505} {} {Pierwszy raz na pustkowiu}
+{506} {} {Pierwszy raz w siodle}
+{507} {} {Majestat Phoenix}
+{508} {} {Time out}
+{509} {} {Zniszczenie Katedry Ognia}
+{510} {} {- puste-}
+{511} {} {Wybuch Steel Port}
+{512} {} {Stare zdjecie 1}
+{513} {} {Stare zdjecie 2}
+{514} {} {Stare zdjecie 3}
+{515} {} {Stare zdjecie 4}
+{516} {} {Autorzy}
+
+#
+# ???????
+#
+{600} {} {Status}
+{601} {} {Hints}
+{602} {} {Mapy}
+{603} {} {Filmy}
+{604} {} {Alarm}
+{605} {} {Pam pam param pam pum tam taramram tam taram pam pararam pam pam param tam taram tararam tam pam}
+{606} {} {Witamy w osobistym asystencie Pip-Boy 2000 firmy RobCo Industries.}
+{607} {} {Dzieñ dobry.}
+{608} {} {ObudŸ siê.}
+
+
+############################################################
+#
+#   ?????? ?????????? ?????????
+#
+############################################################
+
+#----------------------------------------------
+# ???????????? ????????? ???????
+#----------------------------------------------
+
+{900} {} {?}
+{901} {} {Zasady przetrwania}
+{902} {} {Notatki za³o¿yciela}
+{903} {} {Dziennik Krypty 27}
+{904} {} {Raport ekspedycji}
+{905} {} {Misja Quartz}
+{906} {} {Zapis Sier¿anta McBaina}
+{907} {} {Intrukcje Casa Grande}
+{908} {} {Notatki terenowe J. Rook}
+{909} {} {List od Vault-Tec}
+{910} {} {List z platformy}
+{911}{}{Notatki Lutra}
+{912} {} {}
+{913} {} {}
+{914} {} {}
+{915} {} {}
+{916} {} {}
+{917} {} {}
+{918} {} {}
+{919} {} {}
+
+#----------------------------------------------
+# ??????? ?????????
+# GVAR_HOLODISK_00
+#----------------------------------------------
+{1000}{}{--?????--}
+{1001}{}{**END-PAR**}
+{1002}{}{**END-DISK**}
+
+#----------------------------------------------
+# ?????? ??????????
+# GVAR_HOLODISK_01
+#----------------------------------------------
+
+{2000} {} {Zostawiam te notatki moim potomkom do przekazania.}
+{2001} {} {Trzymaj je w tajemnicy przed reszt¹ mieszkañców}
+{2002} {} {i przekazuj z syna na syna, jak ja przeka³em mojemu.}
+{2003} {} {}
+{2004} {} {}
+{2005} {} {}
+{2006} {} {Historia naszego ludu zaczyna siê w sanktuarium}
+{2007} {} {o numerze 27. Ten du¿y podziemny bunkier by³}
+{2008} {} {zbudowany przed Wielk¹ Wojn¹ i zlokalizowany}
+{2009} {} {w okolicach Phoenix w Arizonie. Tobie,}
+{2010} {} {mój potomku, to miejsce bêdzie wydawaæ siê niewygodne}
+{2011} {} {i obce. Przyzwyczaisz siê ju¿ do œwiat³a s³oñca i}
+{2012} {} {do z³otego piasku Sonory; nie bêdziesz w stanie zrozumieæ}
+{2013} {} {pomieszczenia z niskimi sufitami, ciemnymi korytarzami}
+{2014} {} {i zimnych stalowych œcian. Ale to te œciany}
+{2015} {} {i technologia uratowa³a ¿ycie nam i naszym przodkom,}
+{2016} {} {kiedy bomby atomowe spad³y na ziemiê.}
+{2017}{}{**END-PAR**}
+{2018} {} {Przez d³ugi czas nie odwa¿yliœmy siê wyjœæ na powierzchniê.}
+{2019} {} {Swiat wokó³ nie nadawa³ siê do ¿ycia z powodu mutantów,}
+{2020} {} {dewastacji i poziomu promieniowania. Ale im d³u¿ej naukowcy}
+{2021} {} {i mieszkañcy Krypty prowadzili gor¹c¹ debatê na ten temat,}
+{2022} {} {tym mniej zasobów pozostawa³o w magazynie}
+{2023} {} {na ¿ycie. Spo³eczeñstwo pêka³o w szwach,}
+{2024} {} {zamieszki mia³y miejsce jedne po drugich i niektórzy}
+{2025} {} {wieœniacy dobrowolnie udali siê na pustkowia.}
+{2026} {} {Decyzja powinna zostaæ podjêta wczeœniej. }
+{2027} {} {Jedyn¹ rzecz¹, która utrzymywa³aby nas przy ¿yciu, by³}
+{2028} {} {Garden of Eden Creation Kit - G.E.C.K. Szczyt przedwojennej}
+{2029} {} {technologii, który móg³ tchn¹æ ¿ycie w pustyniê.}
+{2030} {} {Naukowcy zgadzali siê, ¿e jego u¿ycie}
+{2031} {} {w pobli¿u Krypty by³oby lekkomyœlnym marnotrawstwem}
+{2032} {} {tej cudnej technologii. Wszystkie pozytywne}
+{2033} {} {efekty zosta³yby zniwelowane przez œrodowisko.}
+{2034} {} {A my mie mogliœmy zbadaæ bardziej odleg³ych terenów.}
+{2035} {} {**END-PAR**}
+{2036} {} {Jednak kiedy sytuacja zrobi³a siê tragiczna, zebra³em}
+{2037} {} {najlepszych ludzi, którym mog³em chocia¿ trochê zaufaæ.}
+{2038} {} {Ukradliœmy G.E.C.K. i opuœciliœmy Kryptê,}
+{2039} {} {pozostawiaj¹c wiêkszoœæ populacji na ³askê}
+{2040} {} {losu. Scie¿ka by³a trudna. Wielu zginê³o}
+{2041} {} {z powodu promieniowania, mutantów i nielicznych bandytów.}
+{2042} {} {Niektórzy nas zdradzili i zostali straceni. }
+{2043} {} {Pod koniec wêdrówki zosta³o nas zaledwie}
+{2044} {} {kilka rodzin. Kiedy nadzieja ju¿ nas opuszcza³a,}
+{2045} {} {natkn¹³em siê na to nietypowe miejsce.}
+{2046} {} {Detektor G.E.C.K. uzna³ je za odpowiednie}
+{2047} {} {aby stworzyæ miasto-ogród. Ale nawet tutaj}
+{2048} {} {zajê³o nam to lata, by z t¹ technologi¹}
+{2049} {} {stworzyæ miejsce zdatne do ¿ycia znane jako Villa.}
+{2050} {} {**END-PAR**}
+{2051} {} {Teraz znasz cenê istnienia naszego ma³ego raju. }
+{2052} {} {Chocia¿ wcale nie jest mi przykro z powodu tego,}
+{2053} {} {co siê sta³o, to wci¹¿ mam w¹tpliwoœci.}
+{2054} {} {Czy post¹piliœmy s³usznie?}
+{2055} {} {Ile osób my zdradziliœmy?}
+{2056} {} {Ilu zosta³o zabitych i skazanych na tortury}
+{2057} {} {po naszej ucieczce?}
+{2058} {} {Nikt ju¿ nie odpowie mi na te pytania.}
+{2059} {} {Dlatego jedynym poprawnym rozwi¹zaniem jest}
+{2060} {} {zapomnieæ o przesz³oœci i ¿yæ przysz³oœci¹.}
+{2061} {} {**END-PAR**}
+{2062} {} {Nasza przysz³oœæ to nasza ziemia i nasze dzieci.}
+{2063} {} {Zajmij siê nimi. Utrzymaj nasz styl ¿ycia. Unikaj}
+{2064} {} {staro¿ytnej technologii. Odtr¹æ nieznajomych,}
+{2065} {} {dopóki nie zostan¹ zranieni. Jeœli kolejne pokolenia}
+{2066} {} {bêd¹ ³amaæ przymierza, tak jak ja to zrobi³em,}
+{2067} {} {nasza spo³ecznoœæ upadnie, tak jak Krypta 27 upad³a.}
+{2068}{}{**END-DISK**}
+
+#----------------------------------------------
+# ??????? ?? ??????? 27
+# GVAR_HOLODISK_02
+#----------------------------------------------
+# - ?????????
+{3000} {} {- 23 paŸdziernika 2077:}
+{3001} {} {Zaczynam prowadziæ dziennik za rad¹ psychologa.}
+{3002} {} {Moja rodzina i ja byliœmy w domu, zajmuj¹c siê naszymi}
+{3003} {} {zwyk³ymi sprawami, kiedy nagle zawy³y syreny.}
+{3004} {} {Katherine pomyli³a sygna³ z rutynow¹ kontrol¹ systemu. }
+{3005} {} {Mimo to nalega³em na ukrycie siê w Krypcie i nie bez powodu.}
+{3006} {} {Po drodze przez radio zosta³y zg³oszone pierwsze eksplozje}
+{3007} {} {na zachodnim wybrze¿u. Wkrótce zobaczyliœmy b³ysk}
+{3008} {} {ponad Phoenix. Odg³os eksplozji dopad³ nas póŸniej.}
+{3009} {} {}
+{3010} {} {Zameldowanie by³o okropne. Przed Krypt¹ by³ korek.}
+{3011} {} {Musia³em zostawiæ samochód na ulicy. Zidentyfikowano nas}
+{3012} {} {i wys³ano do pokoju, dostaliœmy jednego Pip-Boya na rodzinê.}
+{3013} {} {W tym samym pokoju zakwaterowano Meksykanów! Okaza³o siê,}
+{3014} {} {¿e w bunkrze jest du¿o wiêcej ludzi ni¿ powinno.}
+{3015} {} {Mamy szczêœcie, ¿e nie musimy spaæ na korytarzu.}
+{3016} {} {Gdzie byli urzêdnicy Vault-Tec, gdy}
+{3017} {} {sporz¹dzano listy zameldowania? }
+{3018}{}{**END-PAR**}
+# -
+{3019} {} {- 12 listopada 2077:}
+{3020} {} {Moi s¹siedzi i ja d³ugi czas nie mogliœmy siê dogadaæ.}
+{3021} {} {Podzieli³em pokój ekranem i meblami na dwie czêœci.}
+{3022} {} {Katherine za¿¹da³a abym ich eksmitowa³. Ale co}
+{3023} {} {ja mogê w tej sytuacji? Dzieci nas pogodzi³y.}
+{3024} {} {Zgodziliœmy siê zachowywaæ dla nich.}
+{3025} {} {Ma³a Suzy jest najtrudniejsza ze wszystkich. Nasz}
+{3026} {} {nadzorca nie radzi sobie z przeludnieniem. Informacje}
+{3027} {} {o nielegalnych lokatorach okaza³y siê fa³szywe.}
+{3028} {} {Wygl¹da na to, ¿e Vault-Tec bêdzie siê gêsto t³umaczyæ.}
+{3029} {} {Ale co powinniœmy zrobiæ teraz??}
+{3030}{}{**END-PAR**}
+# - ?????
+{3031} {} {- 7 lutego 2078:}
+{3032} {} {Mój s¹siad z Meksyku zosta³ zabity, podejrzenie pad³o}
+{3033} {} {oczywiœcie na mnie. W celi karnej spêdzi³em 24 godziny.}
+{3034} {} {Zabójc¹ okaza³ siê byæ by³y trucker - poda³ swój}
+{3035} {} {motyw - ból g³owy. Oszala³ przez sytuacjê}
+{3036} {} {i stwierdzi³, ¿e Krypta jest przepe³niona}
+{3037} {} {przez nielegalnych Meksykanów. Czasy siê zmieniaj¹.}
+{3038} {} {Kiedyœ chcia³em, ¿eby s¹siedzi zniknêli.}
+{3039} {} {Teraz martwiê siê utrat¹ cz³onka rodziny.}
+{3040} {} {A tak przy okazji, tylko 15% osób to Meksykanie. Ich}
+{3041} {} {eksmisja nie rozwi¹¿e problemu ca³kowicie.}
+{3042} {} {**END-PAR**}
+# -
+{3043} {} {- 11 grudnia 2082:}
+{3044} {} {Odciêli wodê i pr¹d.}
+{3045} {} {Sekcje edukacji i rozrywki s¹ zamkniête.}
+{3046} {} {Racje ¿ywnoœciowe prawie zgodnie z harmonogramem.}
+{3047} {} {Wiecej zgonów i walk na korytarzach.}
+{3048} {} {Sala lekarska jest pe³na. Ci¹g³y stres.}
+{3049} {} {**END-PAR**}
+# -
+{3050} {} {- 2 stycznia 2083:}
+{3051} {} {Kolejne morderstwo, tym razem bia³ego Amerykanina.}
+{3052} {} {Zachary Taylor prowadzi dochodzenie -}
+{3053} {} {By³y ¿o³nierz, weteran Anchorage. Na szybko}
+{3054} {} {znalaz³ „przestêpcê” i ze swoimi wspó³pracownikami}
+{3055} {} {go zlinczowali. Musia³em jak wiêkszoœæ poprzeæ to,}
+{3056} {} {aby nie wzbudzaæ podejrzeñ, ale osobiœcie}
+{3057} {} {by³em temu przeciwny. Muszê byæ ostro¿nym}
+{3058} {} {i przyj¹æ neutraln¹ postawê, czekaæ i obserwowaæ.}
+{3059} {} {Na pocz¹tku sympatyzowa³em z Taylorem, ale kiedy}
+{3060} {} {zaproponowa³ eksmisjê wszystkich Meksykanów na zewn¹trz,}
+{3061} {} {by³em bardzo zdenerwowany. Nie chcia³bym widzieæ}
+{3062} {} {takiej osoby na stanowisku nadzorcy.}
+{3063} {} {**END-PAR**}
+# -
+{3064} {} {- 13 marca 2084:}
+{3065} {} {Hugo i jego gang przejêli stacjê uzdatniania wody}
+{3066} {} {i zaczêli szanta¿owaæ nadzorcê. }
+{3067} {} {Ludzie Taylora zabrali siê do roboty. Dwa gangi}
+{3068} {} {star³y siê ze sob¹ w w¹skich korytarzach.}
+{3069} {} {Skoñczy³o siê na zlinczowaniu wszystkich pokonanych}
+{3070} {} {jak równie¿ ich wspólników i pracowników stacji.}
+{3071} {} {Có¿. Uciekliœmy do Krypty przed wojn¹. Ale wojna}
+{3072} {} {czeka³a na nas tutaj. Prawdopodobnie wojnê mamy we krwi.}
+{3073} {} {Susie p³acze w nocy, kiedy œni o naszym domu.}
+{3074} {} {Obyœmy jak najszybciej mogli st¹d wyjœæ.}
+{3075} {} {**END-PAR**}
+# -
+{3076} {} {- 16 grudnia 2084:}
+{3077} {} {To koniec. Nadzorca ograniczy³ zapasy ¿ywnoœci i wody.}
+{3078} {} {Ludzie Taylora zabili nadzorcê œpi¹cego i si³¹}
+{3079} {} {przej¹³ jego stanowisko. Teraz Zachary Taylor }
+{3080} {} {to nasz nowy opiekun. I bojê siê sobie wyobraziæ}
+{3081} {} {jaki porz¹dek ten stary wojskowy tu zorganizuje.}
+{3082} {} {Dwudziestu ludzi zniknê³o z Krypty w jedn¹ noc.}
+{3083} {} {Nikt nic nie widzia³. Nikt nic nie wie.}
+{3084} {} {I pod ¿adnym pozorem nie mo¿na o tym rozmawiaæ.}
+{3085} {} {**END-PAR**}
+# - OTWARCIE KRYPTY
+{3086} {} {- 24 sierpnia 2091:}
+{3087} {} {Dziêki dyktaturze Taylora przez ca³y ten czas w Krypcie}
+{3088} {} {panowa³ porz¹dek i dyscyplina. By³o ciê¿ko, ale }
+{3089} {} {przetrwaliœmy to. Mówi siê o wyjœciu na powierzchniê.}
+{3090} {} {Ta myœl o¿ywia nas wszystkich, szczególnie Susie.}
+{3091} {} {Ale nadzorca wyjaœni³, ¿e jest za wczeœnie na wyjœcie.}
+{3092} {} {Jeœli siê nad tym zastanowiæ, wiele siê zmieni³o: nowe}
+{3093} {} {pokolenie doros³o, a my jesteœmy starzy i przyzwyczajeni}
+{3094} {} {do zimnych œcian. Wiêkszoœæ boi siê wyjœæ. }
+{3095} {} {I gdzie mamy udaæ? Mój dom prawdopodobnie sp³on¹³ lub}
+{3096} {} {rozpad³ siê w py³. A co mamy tutaj? Brakuje nam}
+{3097} {} {jedzenia, wody, powietrza, b³êkitnego nieba nad g³ow¹.}
+{3098} {} {Potrzebujemy trochê czasu, aby zebraæ myœli.}
+{3099} {} {**END-PAR**}
+# -
+{3100} {} {- 18 stycznia 2092:}
+{3101} {} {Coraz czêœciej mówi siê o wydostaniu siê na powierzchniê.}
+{3102} {} {Rozpoznanie terenu nie napawa optymizmem. Sam}
+{3103} {} {wierzê, ¿e system GECK zmieni sytuacjê, ale}
+{3104} {} {inni - ¿e efekt zostanie zniweczony przez œrodowisko.}
+{3105} {} {Wydaje siê, ¿e spo³eczeñstwo znów jest podzielone na klany}
+{3106} {} {tak jak to by³o wczeœniej. Ale nadzorca siê zmieni³ - jest}
+{3107} {} {stary i niezdarny. Jego umiejêtnoœci to przesz³oœæ.}
+{3108} {} {A mo¿e to tylko pozory, nie wiem ju¿ co mam}
+{3109} {} {myœleæ. Czy mamy siê zestarzeæ w tej Krypcie?}
+{3110} {} {Niektórzy ju¿ j¹ opuœcili. Taylor kaza³ im}
+{3111} {} {nie wracaæ. Susie by³a z nimi. Jestem ¿a³osny.}
+{3112} {} {**END-PAR**}
+# -
+{3113} {} {- 22 marca 2092:}
+{3114} {} {Felix Tejada zrobi³ to. Zabra³ GECK si³¹}
+{3115} {} {i poprowadzi³ swoich towarzyszy na pustkowie.}
+{3116} {} {Spêdzi³ kilka lat przygotowuj¹c swój plan.}
+{3117} {} {Te¿ otrzyma³em od niego zaproszenie, ale odmówi³em.}
+{3118} {} {Katherine nie odejdzie, a ona jest jedynym}
+{3119} {} {co mi zosta³o. I tak nie mam ju¿ wyboru.}
+{3120} {} {Nadzorca ca³kowicie zamkn¹³ pancerne drzwi.}
+{3121} {} {Zabawne, kiedyœ chcia³ jak najszybciej eksmitowaæ}
+{3122} {} {wiêcej ludzi, a teraz nikogo nie wypuszcza.}
+{3123} {} {Krypta jest teraz pusta.}
+{3124} {} {I cicha. Jak w grobie.}
+{3125} {} {Dobrze. Niech tak bêdzie.}
+{3126} {} {**END-DISK**}
+
+#----------------------------------------------
+# ????? ??????????
+# GVAR_HOLODISK_03
+#----------------------------------------------
+{4000} {} {Z³o¿one przez:}
+{4001} {} {Abel Dragger, Oœwiecony przez Nuklearny}
+{4002} {} {P³omieñ i lojalny s³uga Wschodz¹cego Phoenix}
+{4003} {} {(postscriptum: jedyna osoba, która potrafi czytaæ i}
+{4004} {} {pisaæ wœród tych idiotów)}
+{4005} {} {}
+{4006} {} {**END-PAR**}
+# -
+{4007} {} {- Raport nr 02-04:}
+{4008} {} {}
+{4009} {} {Dotarliœmy do celu, ale drzwi do Krypty,}
+{4010} {} {jak ostrzega³ odkrywca, s¹ zamkniête.}
+{4011} {} {Konsola drzwi nie reaguje na polecenia, wygl¹da to na}
+{4012} {} {brak pr¹du wewn¹trz. Bêdziemy musieli zrobiæ}
+{4013} {} {podkop. Listê potrzebnych rzeczy wysy³am do centrali}
+{4014} {} {inwentarzu. Straty: jeden niewolnik skrêci³ nogê podczas}
+{4015} {} {transportu sprzêtu, musia³em go zastrzeliæ. }
+{4016} {} {Plany przed przybyciem konwoju: wzmocnienie obozu,}
+{4017} {} {zbadanie okolicy, rozpoczêcie kopania.}
+{4018} {} {**END-PAR**}
+# -
+{4019} {} {- Raport nr 02-09:}
+{4020} {} {}
+{4021} {} {Z¹dana wysy³ka z raportu 02-04 zosta³a odebrana. Zgodnie }
+{4022} {} {z czasem: jeszcze trochê i dojdziemy do tej stalowej}
+{4023} {} {œciany schronu. Przewodnik poœpiesznie opuœci³ obóz.}
+{4024} {} {Przed wyjazdem ostrzeg³ przed przeklêñstwem azylu,}
+{4025} {} {co spowodowa³o niepokoje wœród niewolników. Musia³em u¿yæ}
+{4026} {} {œrodków presji, by siê zamknêli.}
+{4027} {} {**END-PAR**}
+# -
+{4028} {} {- Raport nr 02-10:}
+{4029} {} {}
+{4030} {} {Kopanie zakoñczone pomimo s³abej wydajnoœci niewolników.}
+{4031} {} {Wszystkie materia³y wybuchowe zosta³y u¿yte do wysadzenia}
+{4032} {} {œciany. Stan Krypty jest niezadowalaj¹cy,}
+{4033} {} {brak pr¹du, winda zablokowana.}
+{4034} {} {Zejœcie na ni¿sze poziomy nie jest jeszcze mo¿liwe.}
+{4035} {} {Wysy³am konwój z cennymi znaleziskami: sprzêt}
+{4036} {} {medyczny (leki, narzêdzia), elektryka, }
+{4037} {} {sprzêty techniczne (cewki kablowe, lampy pró¿niowe)}
+{4038} {} {dane z terminala, zarchiwizowane dane z komputerów.}
+{4039} {} {To znacznie mniej ni¿ oczekiwa³ Sztab Generalny.}
+{4040} {} {**END-PAR**}
+# -
+{4041} {} {- Raport nr 03-01:}
+{4042} {} {}
+{4043} {} {Wysadziliœmy windê i opuœciliœmy linê na dno szybu.}
+{4044} {} {Zwiadowcy s³yszeli dziwne dŸwiêki dochodz¹ce z piêter ni¿ej}
+{4045} {} {i uznali je za g³osy duchów. To przestraszy³o niewolników}
+{4046} {} {i zmusi³o ich do ucieczki. Ofiary: jeden zabity najemnik,}
+{4047} {} {dwóch jest kontuzjowanych; trzech niewolników uciek³o,}
+{4048} {} {reszta zosta³a zabita. Proœba o nowych niewolników}
+{4049} {} {w nastêpnym konwoju. Eksploracja na ni¿szych poziomach}
+{4050} {} {zosta³a zawieszona. Konfigurowanie sprzêtu oœwietleniowego.}
+{4051} {} {**END-PAR**}
+# -
+{4052} {} {- Raport nr 03-02:}
+{4053} {} {}
+{4054} {} {Wygl¹da na to, ¿e ten przewodnik mia³ racjê - Krypta}
+{4055} {} {naprawdê jest przeklêta! Coœ na ni¿szym poziomie}
+{4056} {} {chwyci³o oœwietleniowca i wci¹gnê³o go w ciemnoœæ.}
+{4057} {} {Dwóch najemników posz³o za nim i nigdy nie wrócili.}
+{4058} {} {S³ychaæ strza³y. Cz³onkowie wyprawy s¹ przera¿eni.}
+{4059} {} {Chyba trzeba zaprowadziæ tam porz¹dek}
+{4060} {} {z reszt¹ brygady.}
+{4061} {} {**END-PAR**}
+{4062} {} {**END-DISK**}
+
+#----------------------------------------------
+# ?????? ? ??????
+# GVAR_HOLODISK_04
+#----------------------------------------------
+{5000} {} {Twoim zadaniem jest nieœæ ideê Swiêtego Ognia}
+{5001} {} {na ziemie barbarzyñców i heretyków. B¹dŸ gotów}
+{5002} {} {do nieporozumieñ i przeœladowañ ze strony g³upich dzikusów,}
+{5003} {} {do oderwania siê od dóbr ziemskich i poœwiêcenia.}
+{5004} {} {Nie wahaj siê. To jest twoje œwiête brzemiê.}
+{5005} {} {}
+{5006} {} {}
+{5007} {} {Twoja misja ma dwa cele.}
+{5008} {} {}
+{5009} {} {Pierwszy to stworzenie fundamentów na ruinach w postaci}
+{5010} {} {Kolonii sympatyzuj¹c¹ z nasz¹ wiar¹. Taka kolonia}
+{5011} {} {stanie siê regionalnym centrum rozpowszechniania idei}
+{5012} {} {Swiêtego Ognia, jednym z filarów naszej przysz³oœci.}
+{5013} {} {Ale uwa¿aj na heretyckich Rangerów,}
+{5014} {} {Ich baza jest 50 mil na pó³noc. }
+{5015} {} {Udawaj zwyk³ego uchodŸcê z Phoenix, który}
+{5016} {} {zdesperowany szuka nowego domu.}
+{5017} {} {}
+{5018} {} {Drugi to zebranie œwiêtych zasobów nuklearnych}
+{5019} {} {tych ruin i przygotowanie ich do wysy³ki do Phoenix.}
+{5020} {} {Wed³ug naszych informacji, jeden z grobowców Atomu jest}
+{5021} {} {w okolicy Quartz - stacja benzynowa Petro-Chico.}
+{5022} {} {ZnajdŸ i otwórz z ca³ym szacunkiem.}
+{5023} {} {W przypadku niemo¿noœci wys³ania zasobów}
+{5024} {} {trzymaj je pod os³on¹ Kolonii}
+{5025} {} {oczekuj¹c na nowe rozkazy Rady.}
+{5026} {} {}
+{5027} {} {Zachowaj misjê w tajemnicy,}
+{5028} {} {Zniszcz tê holotaœmê w razie niebezpieczeñstwa.}
+{5029} {} {}
+{5030} {} {Niech Swiêty Ogieñ bêdzie z Tob¹.}
+{5031} {} {Amen.}
+{5032} {} {**END-PAR**}
+{5033} {} {**END-DISK**}
+
+# ----------------------------------------------
+# Tasma sierzanta McBaina
+# GVAR_HOLODISK_05
+# ----------------------------------------------
+{6000} {} {[ciê¿ki oddech] Dla tych, którzy znajd¹ ten wpis...}
+{6001} {} {Jestem sier¿ant McBain z Davis Monten...}
+{6002} {} {}
+{6003} {} {...Nasze roboty bezpieczeñstwa zbuntowa³y siê}
+{6004} {} {i zabi³y prawie wszystkich cz³onków za³ogi.}
+{6005} {} {Cholerny ZAX musia³ zacz¹æ bunt!}
+{6006} {} {Powiedzia³em porucznikowi, ¿e nie mo¿na zawierzaæ}
+{6007} {} {naszego ¿ycia tym bezdusznym maszynom. I oto wynik...}
+{6008} {} {}
+{6009} {} {...Jestem teraz w odizolowanym pokoju.}
+{6010} {} {Roboty nie mog¹ siê tu dostaæ. Ale to kwestia czasu.}
+{6011} {} {Nadal nie mogê sam opuœciæ tego cmentarza.}
+{6012} {} {Brak pomocy przez trzy dni...}
+{6013} {} {Radio zablokowane, interkomy nie odpowiadaj¹...}
+{6014} {} {I nie wiem, co siê dzieje na górze...}
+{6015} {} {}
+{6016} {} {...Mam jedn¹ rzecz do zrobienia - muszê wy³¹czyæ ZAX.}
+{6017} {} {Idê na dó³ znaleŸæ konsolê}
+{6018} {} {i ustawiæ awaryjn¹ eksplozjê impulsu, aby}
+{6019} {} {usma¿yæ t¹ maszynê zanim bêdzie gorzej!}
+{6020} {} {}
+{6021} {} {}
+{6022} {} {Bo¿e dopomó¿ mi...}
+{6023} {} {}
+{6024} {} {**END-PAR**}
+{6025} {} {**END-DISK**}
+
+#----------------------------------------------
+# ??????????? ??? ???? ????-??????
+# GVAR_HOLODISK_06
+#----------------------------------------------
+{7000} {} {REGULACJE}
+{7001} {} {rozwi¹zanie sytuacji w Casa Grande}
+{7002} {} {obecny i przysz³y burmistrz miasta}
+{7003} {} {}
+{7004} {} {}
+{7005} {} {Niestabilne œrodowisko spo³eczne w Casa Grande}
+{7006} {} {niszczy rozwój ca³ego regionu. Bez tej „oazy”}
+{7007} {} {ka¿dy handel bêdzie nieop³acalny i ucierpi¹}
+{7008} {} {wszystkie procesy przemys³owe w po³udniowej Arizonie.}
+{7009} {} {Musisz jak najszybciej rozwi¹zaæ konflikt}
+{7010} {} {spowodowany przeludnieniem w mieœcie.}
+{7011} {} {W przeciwnym razie konsekwencje bêd¹ katastrofalne.}
+{7012} {} {Nie bój siê podejmowaæ drastycznych dzia³añ.}
+{7013} {} {}
+{7014} {} {Srodki zapobiegawcze i kontrolne:}
+{7015} {} {}
+{7016} {} {- Legalizacja w³adzy}
+{7017} {} {}
+{7018} {} {Musisz udowodniæ, ¿e jesteœ prawdziwym przywódc¹ miasta.}
+{7019} {} {Wszelkie œrodki s¹ dozwolone, w tym groŸby,}
+{7020} {} {k³amstwa i przekupstwo. Og³oœ siê burmistrzem,}
+{7021} {} {wymyœl legendê o swoich osi¹gniêciach}
+{7022} {} {i oszukaj miasto fa³szywymi wyborami.}
+{7023} {} {}
+{7024} {} {- Eliminacja niechcianych i skonfliktowanych obywateli}
+{7025} {} {}
+{7026} {} {Nale¿y zachowaæ tylko tê czêœæ populacji}
+{7027} {} {która ciê wspiera lub boi.}
+{7028} {} {Wymyœl coœ sprytnego - otrucia,}
+{7029} {} {wypadki, egzekucje na podstawie fa³szywych zarzutów.}
+{7030} {} {}
+{7031} {} {- Nadzór i kontrola nad populacj¹}
+{7032} {} {}
+{7033} {} {Powinieneœ byæ postrachem. Najlepszym sposobem na to s¹}
+{7034} {} {zastraszanie i pokazy egzekucji.}
+{7035} {} {Musisz mieæ w³adzê w swoich rêkach - potrzebujesz}
+{7036} {} {broni i lojalnych ¿o³nierzy. Rekrutuj najemników,}
+{7037} {} {wszystko da siê naprawiæ póŸniej.}
+{7038} {} {}
+{7039} {} {- Przejmowanie kluczowych pozycji miasta we w³asne rêce}
+{7040} {} {}
+{7041} {} {Musisz przej¹æ kontrolê nad stacj¹ wodn¹,}
+{7042} {} {w³aœciciel mo¿e zostaæ Twoim lojalnym psem}
+{7043} {} {i bêdzie strzeg³ stacji przed obcymi.}
+{7044} {} {W przypadku oporu ze strony obecnego w³aœciciela -}
+{7045} {} {rozpowszechniaj oszczercze plotki i}
+{7046} {} {wymyœl fa³szywy powód do otwartego ataku,}
+{7047} {} {kiedy przewaga si³y bêdzie po twojej stronie.}
+{7048} {} {}
+{7049} {} {- sojusze handlowe}
+{7050} {} {}
+{7051} {} {Ta walka kiedyœ siê skoñczy.}
+{7052} {} {Ale jeœli odniesiesz zwyciêstwo, zachowaj czujnoœæ.}
+{7053} {} {Bez wsparcia Blacharzy i Koœcio³a Swiêtego Ognia}
+{7054} {} {Twoje wodne imperium nie potrwa d³ugo.}
+{7055} {} {}
+{7056} {} {}
+{7057} {} {Nie martw siê o kapsle. Mamy z Tob¹ wspólny cel,}
+{7058} {} {jesteœmy gotowi wesprzeæ twoje wysi³ki.}
+{7059} {} {}
+{7060} {} {I pamiêtaj - historia jest po twojej stronie.}
+{7061} {} {}
+{7062} {} {**END-PAR**}
+{7063} {} {**END-DISK**}
+
+#----------------------------------------------
+# ??????? ??????? ??.?????
+# GVAR_HOLODISK_07
+#----------------------------------------------
+{8000} {} {Mój Panie!}
+{8001} {} {Spieszê poinformowaæ ciê o stanie rzeczy.}
+{8002} {} {}
+{8003} {} {Jesteœmy w San Brahmin trzeci tydzieñ.}
+{8004} {} {Jeszcze tylko trochê, a moi ¿o³nierze zaczn¹ siê ¿eniæ}
+{8005} {} {z tymi brudnymi i brzydkimi dzikusami.}
+{8006} {} {Koñcz¹ nam siê zapasy, proszê, niech centrum zaopatrzenia}
+{8007} {} {wyœle nam dodatkowe zaopatrzenie (pe³na lista}
+{8008} {} {zapotrzebowania za³¹czona do raportu).}
+{8009} {} {}
+{8010} {} {Od tamtej pory próbowa³em wiele razy skontaktowaæ siê}
+{8011} {} {z lokalnymi liderami i przekonaæ ich do sojuszu.}
+{8012} {} {Ale przywódcy stoj¹ przy swoim stanowisku jak g³upie braminy.}
+{8013} {} {Dzisiaj odby³y siê nowe negocjacje i zosta³em}
+{8014} {} {po prostu wyœmiany.}
+{8015} {} {}
+{8016} {} {Marnujemy tu nasz czas, Panie.}
+{8017} {} {Te obrzydliwe dzikusy nie mog¹ zostaæ "oswojone"}
+{8018} {} {ani nie s¹ w stanie zostaæ autonomiczn¹ czêœci¹ Imperium.}
+{8019} {} {Mo¿na ich pokonaæ tylko twardym batem i}
+{8020} {} { stalowymi kajdanami, jak za starych dobrych czasów.}
+{8021} {} {}
+{8022} {} {Proszê, Aaron. Wyœlij mi wiêcej ¿o³nierzy i broni,}
+{8023} {} {a przejmê to stare pueblo w ci¹gu kilku minut.}
+{8024} {} {Rozbrojê tych dzikusów, ¿eby przestali byæ}
+{8025} {} {zagro¿eniem dla ogó³u ludnoœci i karawan.}
+{8026} {} {Pozostali ci, którzy siê nie podporz¹dkuj¹, zostan¹ umieszczeni}
+{8027} {} {w zagrodach jak stado g³upiego byd³a.}
+{8028} {} {Tylko wydaj rozkaz!}
+{8029} {} {}
+{8030} {} {}
+{8031} {} {Twój wierny s³uga i osoba o podobnych pogl¹dach,}
+{8032} {} {Komandor George Crook.}
+{8033} {} {**END-PAR**}
+{8034} {} {**END-DISK**}
+
+#----------------------------------------------
+# ?????? ?? "????-???"
+# GVAR_HOLODISK_08
+#----------------------------------------------
+{9000} {} {Szanowni Pañstwo Buren!}
+{9001} {} {}
+{9002} {} {Gratulacje dla ca³ej rodziny z powodu}
+{9003} {} {do³¹czenia do spo³ecznoœci Krypty!}
+{9004} {} {}
+{9005} {} {W za³¹czonych materia³ach znajdziecie kompletny zestaw}
+{9006} {} {zasad i procedury szkoleniowe jak}
+{9007} {} {przenieœæ siê do kompleksu Vault-Tec, ale chcielibyœmy}
+{9008} {} {podkreœliæ te¿ kilka kluczowych punktów:}
+{9009} {} {}
+{9010} {} {* Vault-Tec zapewnia mieszkañcom lokale,}
+{9011} {} {umeblowane zakwaterowanie, odzie¿ i poœciel. }
+{9012} {} {Twoje rzeczy osobiste musz¹ zostaæ sprawdzone}
+{9013} {} {i zatwierdzone przez autoryzowanego technika Vault-Tec,}
+{9014} {} {tylko wtedy mog¹ zostaæ dostarczone do}
+{9015} {} {Twojego zarezerwowanego schronienia.}
+{9016} {} {W przypadku awaryjnego przeniesienia do kompleksu, nie}
+{9017} {} {bêdziesz móg³ zabraæ ze sob¹ ZADNYCH rzeczy osobistych.}
+{9018} {} {}
+{9019} {} {* Wszyscy mieszkañcy Krypty musz¹ uczestniczyæ}
+{9020} {} {w warsztatach wprowadzaj¹cych. Jeœli nie mo¿esz}
+{9021} {} {uczestniczyæ w procesie przesy³ania i weryfikacji}
+{9022} {} {zg³oszenia, koniecznie skontaktuj siê z}
+{9023} {} {z do³¹czonym do Ciebie przedstawicielem Vault-Tec.}
+{9024} {} {}
+{9025} {} {* W przypadku otwarcia Krypty (zarówno faktycznego}
+{9026} {} {jak i szkoleniowego) „Vault-Tec” zabrzmi syrena, s³yszalna}
+{9027} {} {wokó³ bunkra. Mieszkañcy otrzymaj¹ równie¿}
+{9028} {} {wiadomoœæ holograficzn¹ na numer telefonu}
+{9029} {} {wskazany w swoich aktach. Po otrzymaniu}
+{9030} {} {tego sygna³u, idŸ natychmiast do Krypty i}
+{9031} {} {czekaj na pozwolenie na wejœcie.}
+{9032} {} {}
+{9033} {} {Nie mo¿emy siê doczekaæ, a¿ zobaczymy zarówno Ciebie}
+{9034} {} {jak i Twoich bliskich w naszym bezpiecznym Domu!}
+{9035} {} {}
+{9036} {} {}
+{9037} {} {Pozdrawiamy,}
+{9038} {} {Vault-Tec Public Relations}
+{9039} {} {Phoenix, Arizona}
+{9040} {} {**END-DISK**}
+
+#----------------------------------------------
+# ?????? ?? ?????
+# GVAR_HOLODISK_09
+#----------------------------------------------
+{10000} {} {To koniec.}
+{10001} {} {Na platformie zosta³o tylko piêæ osób.}
+{10002} {} {}
+{10003} {} {Jest tu tak cicho i spokojnie, chocia¿}
+{10004} {} {nie tak dawno temu wojsko szturmem zdoby³o platformê.}
+{10005} {} {Panowa³ tu chaos! Robotnicy próbowali broniæ swoich}
+{10006} {} {miejsc pracy, ale Maszyna Stanowa by³a silniejsza.}
+{10007} {} {Co by³o jasne od samego pocz¹tku. Nie rozumiem,}
+{10008} {} {na co liczyli w takich chwilach? Na kontynencie }
+{10009} {} {w telewizji federalnej wybucha w³aœnie powa¿ny}
+{10010} {} {skandal z tego powodu. Ale dla nich nic siê nie dzieje. }
+{10011} {} {Tylko g³upiec wyst¹pi³by przeciwko gigantycznej korporacji.}
+{10012} {} {}
+{10013} {} {Jednak sam nie by³em pewien, czy automatyzacja}
+{10014} {} {stacji siê powiedzie. Czy to w ogóle mo¿liwe?}
+{10015} {} {Z³o¿one systemy oddane we w³adzê zwyk³emu programowi?}
+{10016} {} {A jeœli coœ wymknie siê spod kontroli?}
+{10017} {} {Jak grupa urzêdników administracyjnych na œrodku morza}
+{10018} {} {poradzi sobie z takim szaleñstwem nie maj¹c do dyspozycji}
+{10019} {} {nawet odpowiednich narzêdzi? }
+{10020} {} {}
+{10021} {} {Z drugiej strony roboty wydaj¹ siê radziæ sobie nawet lepiej}
+{10022} {} {ni¿ ludzie. Nie trzeba im p³aciæ, nie ma od nich skarg na}
+{10023} {} {pracê w trudnych warunkach. Lokalna ropa stanie siê}
+{10024} {} {Ÿród³em ich zasilania, czyli stacja bêdzie ca³kowicie}
+{10025} {} {autonomiczna i najpewniej bêdzie dzia³aæ i ze sto lat, a¿ do}
+{10026} {} {chwili gdy roboty zardzewiej¹. Oczywiœcie ofiarami jak zawsze}
+{10027} {} {s¹ zwykli ludzie. Dla firmy najwa¿niejsze s¹ zaoszczêdzone}
+{10028} {} {w ten sposób pieni¹dze. Ehh... Szkoda, ¿e kucharzy}
+{10029} {} {te¿ zwolniono, teraz muszê jeœæ ten puszkowany syf.}
+{10030} {} {}
+{10031} {} {A teraz najwa¿niejsze - dziêki modernizacji}
+{10032} {} {Podwoi³em pensjê!}
+{10033} {} {Wszystko ma swoje zalety.}
+{10034} {} {**END-DISK**}
+
+#----------------------------------------------
+# ?????? ??????
+# GVAR_HOLODISK_10
+#----------------------------------------------
+{11000}{}{Dziennik Nadzorcy Krypty 24.}
+{11001}{}{}
+{11002}{}{}
+{11003}{}{}
+{11004}{}{- Luty 2131:}
+{11005}{}{}
+{11006}{}{Nasze schronienie jest prawie wyczerpane. }
+{11007}{}{Ostatnie kilka lat przetrwaliœmy dziêki }
+{11008}{}{Starym maszynom i przedmiotom, które zosta³y }
+{11009}{}{Przyniesione z ruin na górze. W tych wypadach}
+{11010}{}{Straciliœmy kilku naszych braci i sióstr.}
+{11011}{}{Nie mo¿emy tu d³u¿ej zostaæ.}
+{11012}{}{Gdzie powinniœmy iœæ? Czy przetrwamy na pustyni }
+{11013}{}{bez technologii Krypty?}
+{11014}{}{}
+{11015}{}{- Grudzieñ 2131:}
+{11016}{}{}
+{11017}{}{Sta³ siê cud! Dziœ spotkaliœmy wsród ruin }
+{11018}{}{Kilka osób. Ci ludzie }
+{11019}{}{pochodzili z miasteczka zwanego Adytum }
+{11020}{}{(prawdopodobnie na przedmieœciach Los Angeles).}
+{11021}{}{Szukali miejsca, które nazywali Blaskiem.}
+{11022}{}{Jak rozumiem mówili o zniszczonym laboratorium }
+{11023}{}{West-Tek, z czego chyba sami nie zdawali sobie sprawy. }
+{11024}{}{Stara technika sta³a siê dla nich czymœ w rodzaju }
+{11025}{}{mistycznego artefaktu, którego znaczenie zosta³o dawno }
+{11026}{}{zapomniane. Mamy du¿o szczêœcia, bo W Krypcie }
+{11027}{}{zachowaliœmy du¿¹ czêœæ wiedzy z czasów przedwojennych.}
+{11028}{}{Ale bior¹c pod uwagê nasz¹ trudn¹ sytuacjê, }
+{11029}{}{Trzeba bêdzie nawi¹zaæ kontakt nawet z dzikusami.}
+{11030}{}{Nale¿y przeprowadziæ dok³adne rozpoznanie tego }
+{11031}{}{Adytum i innych miejsc.}
+{11032}{}{}
+{11033}{}{Ochotników jest mnóstwo.}
+{11034}{}{}
+{11035}{}{- Maj 2132:}
+{11036}{}{}
+{11037}{}{Zwiadowcy wrócili. Przynieœli dwie wiadomoœci.}
+{11038}{}{}
+{11039}{}{Dobra wiadomoœæ jest taka, ¿e w ruinach Los Angeles }
+{11040}{}{i okolicach te¿ ¿yj¹ ludzie!}
+{11041}{}{Moglibyœmy zamieszkaæ blisko nich i spróbowaæ }
+{11042}{}{wspólnie odbudowaæ œwiat.}
+{11043}{}{}
+{11044}{}{Z³a wiadomoœæ jest taka, ¿e miejscowi s¹}
+{11045}{}{bardzo dzicy, zacofani w rozwoju ze trzy }
+{11046}{}{pokolenia. Byæ mo¿e bêdziemy musieli nawet walczyæ}
+{11047}{}{o miejsce w ruinach. A daleko nam do wojowników.}
+{11048}{}{S¹ z nami chorzy i niepe³nosprawni. Ale doœæ wojen!}
+{11049}{}{Swiat doœæ ju¿ cierpia³, nie bêdziemy powtarzaæ b³êdów}
+{11050}{}{naszych przodków. Nasza wiedza i wiara s¹ nasz¹ si³¹.}
+{11051}{}{Odbudujemy fabryki, szpitale, biblioteki i kaplice,}
+{11052}{}{przywrócimy œwiatu utracon¹ cywilizacjê i wyleczymy }
+{11053}{}{rany jego serca.}
+{11054}{}{}
+{11055}{}{- Styczeñ 2136:}
+{11056}{}{}
+{11057}{}{Opuszczam Kryptê jako ostatni. }
+{11058}{}{Prawdopodobnie ju¿ tu nie wrócimy. Nasi bracia}
+{11059}{}{i siostry za³o¿yli bibliotekê niedaleko Adytum}
+{11060}{}{i przekazuj¹ teraz miejscowym utracon¹ wiedzê.}
+{11061}{}{Jesteœmy szanowani, a czasem nawet zabierani na misje.}
+{11062}{}{To nasza szansa na stworzenie nowego œwiata bez wojen }
+{11063}{}{i zniszczeñ. Niektórzy próbuj¹ nam odebraæ nadziejê.}
+{11064}{}{Ale nie pozwolimy na to. Biblioteka stanie siê nasz¹ fortec¹,}
+{11065}{}{Wiedza jest nasz¹ broni¹, wiara nasz¹ lœni¹c¹ zbroj¹.}
+{11066}{}{Dobry Bo¿e, pomó¿ nam.}
+{11067}{}{**END-DYSK**}

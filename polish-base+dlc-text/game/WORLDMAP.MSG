@@ -1,0 +1,627 @@
+################################################ # ####
+#
+# Nazwy obszarow dla okna ladowania lokalizacji
+#
+################################################ # ####
+
+
+#Villa
+{200} {} {Sala sypialna}
+{201} {} {Plaza de la Sombra}
+{202} {} {Piwnice Villi}
+{203} {} {Plantacja kukurydzy}
+{204} {} {Staro¿ytne ruiny}
+{205} {} {Krypta za³o¿yciela}
+#
+#Flagpool
+{210} {} {Kolonia}
+{211} {} {Garnizon}
+{212} {} {Kopalnia uranu}
+{213} {} {Opuszczony obszar}
+{214} {} {Obszar kopalni}
+{215} {} {Farma Randego}
+#
+#Garage City
+{220} {} {Dzielnica handlowa}
+{221} {} {Domostwa}
+{222} {} {Opuszczona fabryka}
+{223} {} {Route 66}
+{224} {} {Obóz pasterzy}
+{225} {} {Przepompownia wody Mojave}
+{226} {} {Kanion}
+#
+# San Brahmin
+{230} {} {Obóz misyjny}
+{231} {} {Pueblo}
+{232} {} {Zagrody braminów}
+{233} {} {Pogrzebane miasto}
+{234} {} {Oaza}
+#
+# Tu-San
+{240} {} {Osada}
+{241} {} {Warsztat}
+{242} {} {Magazyn}
+{243} {} {Centrum sterowania}
+{244} {} {Miejsce zasadzki}
+{245} {} {Stare Miasto}
+#
+#Puerto Penasco
+{250} {} {G³ówna ulica}
+{251} {} {Steel Port}
+{252} {} {Baza Bractwa Stali}
+#
+#Rangers
+{260} {} {Droga do tamy}
+{261} {} {Tama Parkera}
+{262} {} {Akwedukt}
+{263} {} {Stacja radiowa}
+{264} {} {Prom}
+{265} {} {Nas³uch}
+{266} {} {Dom Miltonów}
+{267} {} {Cytadela}
+#
+#Feniks
+{270} {} {Bramy miasta}
+{271} {} {Sródmieœcie}
+{272} {} {Slumsy}
+{273} {} {Elektrownia}
+{274} {} {Atom Square}
+{275} {} {Katedra}
+{276} {} {Krypta 25}
+{277} {} {Ruiny Phoenix}
+{278} {} {Kolekcjonerzy}
+{279} {} {Magazyn Nuka Coli}
+#
+# Platforma wiertnicza
+{280} {} {Osada rybacka}
+{281} {} {Platforma}
+{282} {} {Platforma}
+{283} {} {Platforma}
+{284} {} {Czarna Laguna}
+#
+#Casa Grande
+{290} {} {Stacja wody}
+{291} {} {Hacienda}
+{292} {} {Miejsce pochówku}
+{293} {} {Ruiny szko³y}
+{294} {} {Opuszczone miejsce}
+{295} {} {Stacja kolejowa}
+#
+#Hermosillo
+{300} {} {Rancho Domingueza}
+{301} {} {Garnizon}
+{302} {} {Fort}
+#
+# San Felipe (stara latarnia morska)
+{310} {} {Osada}
+{311} {} {Fundport}
+{312} {} {Cerro Picacho del Diablo}
+#
+#Pieklo
+{320} {} {Korek}
+{321} {} {Dzielnica mieszkalna}
+{322} {} {Supermarket}
+{323} {} {Posterunek policji}
+{324} {} {Tajemnicza posiad³oœæ}
+{325} {} {G³ówna autostrada}
+#
+#Casa Nueva
+{330} {} {Osada}
+{331} {} {Plantacje agawy}
+{332} {} {Szklarnie}
+{333} {} {Szklarnie}
+{334} {} {Kamienio³om}
+#
+#! Puste miejsce
+{340} {} {Pustynia}
+#
+#Dead Motel
+{350} {} {Stary Motel}
+#
+# Blask dnia
+{360} {} {Ruiny Tijuana}
+{361} {} {Obóz San Ysidro}
+{362} {} {Zapora Bonita}
+{363} {} {Obóz w Starym Mieœcie}
+{364} {} {Ruiny San Ysidro}
+{365} {} {Chula Vista}
+{366} {} {Ruiny Miasta Narodowego}
+{367} {} {Serce San Diego}
+{368} {} {Molo}
+{369} {} {Krypta 24}
+{370}{}{Baza Marynarki Wojennej Stanów Zjednoczonych}
+#
+#! Puste miejsce
+{370} {} {Pustynia}
+#
+#Swieta Anna
+{380} {} {Plaza Saragoza}
+{381} {} {Staro¿ytny pomnik}
+{382} {} {Staro¿ytny cmentarz}
+#
+#! Puste miejsce
+{390} {} {Pustynia}
+#
+#Jackals
+{400} {} {Le¿e Szakali}
+#
+# Motocykl bez energii
+{410} {} {Pit stop}
+#
+# Ruined Arroyo (nie u¿ywaæ!)
+{420} {} {Pustynia}
+#
+# Krypta 27
+{430} {} {Wejœcie do Krypty}
+{431} {} {Krypta}
+#
+# Obóz Bractwa
+{440} {} {Obóz na pustyni}
+{441} {} {Obóz w Caborce}
+{442} {} {Obóz w górach}
+#
+#Raiders
+{450} {} {Obóz Wojowników Szos}
+#
+# Losowe Spotkanie Pustynia (Pustkowie)
+{460} {} {Pustynia}
+{461} {} {Pustynia}
+{462} {} {Pustynia}
+{463} {} {Pustynia}
+{464} {} {Pustynia}
+#
+# Random Encounter Mountain
+{470} {} {Gorge}
+{471} {} {Gorge}
+{472} {} {Gorge}
+{473} {} {Gorge}
+{474} {} {Gorge}
+{475} {} {Gorge}
+{476} {} {Blackwood}
+{477} {} {Blackwood}
+{478} {} {Gorge}
+#
+# Miasto Losowych Spotkan (Ruiny)
+{480} {} {Ruiny}
+{481} {} {Ruiny}
+{482} {} {Ruiny}
+{483} {} {Ruiny}
+{484} {} {Ruiny}
+{485} {} {Autostrada}
+{486} {} {Autostrada}
+{487} {} {Autostrada}
+{488} {} {Autostrada}
+{489} {} {Autostrada}
+#
+# Wybrzeze Losowych Spotkan
+{490} {} {Wybrze¿e}
+{491} {} {Wybrze¿e}
+{492} {} {Wybrze¿e}
+{493} {} {Wybrze¿e}
+#
+# Lejek eksplozji w Puerto
+{500} {} {Strefa wybuchu}
+#
+# Spotkanie specjalne - zloto
+{510} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Henry Beamis
+{520} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Roadside Cafe
+{530} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - bombowiec
+{540} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - ciê¿arówka Petro Chico
+{550} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Cry of Silence
+{560} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Nocny pokaz filmu
+{570} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Ojciec
+{580} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Baron of Arizona
+{590} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - opady sniegu
+{600} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Zaginiona kryjówka (Van Buuren)
+{610} {} {Pustkowia Sonory}
+#
+# Spotkanie Specjalne - Mobilna Forteca Armii Stworcy
+{620} {} {Pustkowia Sonory}
+#
+# Spotkanie specjalne - Nomadzi kolejowi
+{630} {} {Pustkowia Sonory}
+#
+#! Puste miejsce
+{640} {} {Pustkowia Sonory}
+#
+#! Puste miejsce
+{650} {} {Pustkowia Sonory}
+#
+# Irradiated Village (kwarcyt)
+{660} {} {Ruiny Quartz}
+#
+# Swiaty Cienia
+{670} {} {Pustynia}
+{671} {} {Pustynia}
+{672} {} {Autostrada Federalna}
+{673} {} {Przedmieœcia Phoenix}
+{674} {} {Pustynia}
+{675} {} {Pustynia}
+{676} {} {Pustynia}
+{677} {} {Pustynia}
+{678} {} {Pustynia}
+{679} {} {Pustynia}
+#
+#Camp Winon
+{680} {} {Obóz w górach}
+
+
+################################################ # ####
+#
+# Maintanea
+#
+################################################ # ####
+
+# Podpis po najechaniu kursorem na znacznik GG (nie dzia³a, podstawa Fallout 1):
+{1000} {} {pustynia}
+{1001} {} {Gory}
+{1002} {} {Ruiny}
+{1003} {} {Wybrzeze}
+
+# Podpis jeszcze nie zbadany Lokalizacja:
+{1004} {} {Nieznane}
+
+# Maintanea:
+{1500} {} {Zdobywasz 10 000 punktów doœwiadczenia!}
+{1501} {} {Ruiny}
+{1502} {} {Twój motocykl dalej nie pojedzie.}
+{1503} {} {To motocykl. Wydaje siê, ¿e nie dzia³a.}
+
+
+################################################ # ####
+#
+# Opis spotkan na mapie swiata
+#
+################################################ # ####
+
+{2998} {} {Natrafiasz na}
+{2999} {} {Czy chcesz spotkaæ}
+
+# Tabela spotkan 0 - TEST_D
+{3000} {} {Red Ryder.}
+{3001} {} {spadaj¹ce ska³y!}
+{3002} {} {radioaktywn¹ mg³ê!}
+{3003} {} {burzê py³ow¹!}
+{3004} {} {odwodnienie!}
+{3005} {} {Gigantyczne mrówki.}
+{3006} {} {Grupê radmrówek.}
+{3007} {} {Rój modliszek.}
+{3008} {} {Stado szczurów.}
+{3009} {} {Stado kretoszczurów.}
+{3010} {} {Stado kretoszczurów.}
+{3011} {} {Stado kojotów.}
+{3012} {} {Stado bezpanskich psów.}
+{3013} {} {Stado wilków.}
+{3014} {} {Grupê Radskorpionów.}
+{3015} {} {Grupê Radskorpionów.}
+{3016} {} {Dzikie braminy.}
+{3017} {} {Potwory.}
+{3018} {} {Robota.}
+{3019} {} {Scolopendry.}
+{3020} {} {Z³oto!}
+{3021} {} {Henry Beamis.}
+{3022} {} {Przydro¿n¹ kawiarniê.}
+{3023} {} {Zniszczony bombowiec.}
+{3024} {} {Ciê¿arówkê Petro Chico.}
+{3025} {} {Krzyk ciszy.}
+{3026} {} {Nocny pokaz filmowy.}
+{3027} {} {Opady œniegu.}
+{3028} {} {Zagubion¹ kryjówkê.}
+{3029} {} {Mobiln¹ Fortecê.}
+{3030} {} {Legend City.}
+
+# Tabela spotkan 1 - VILL_D
+{3050} {} {Gigantyczne mrówki.}
+{3051} {} {Stado kojotów.}
+{3052} {} {Stado kretoszczurów.}
+{3053} {} {Grupê Radskorpionów.}
+{3054} {} {Szakale.}
+{3055} {} {Gang z Nevady.}
+{3056} {} {Z³oto!}
+{3057} {} {Henry Beamis.}
+{3058} {} {Przydro¿n¹ kawiarniê.}
+{3059} {} {Zniszczony bombowiec.}
+{3060} {} {Ciê¿arówkê Petro Chico.}
+{3061} {} {Krzyk ciszy.}
+{3062} {} {Nocny pokaz filmowy.}
+{3063} {} {Opady œniegu.}
+{3064} {} {Zagubion¹ kryjówkê.}
+{3065} {} {Mobiln¹ Fortecê.}
+{3066} {} {Legend City.}
+
+# Tabela spotkan 2 - FLAG_D
+{3100} {} {Red Ryder.}
+{3101} {} {Stado kretoszczurów.}
+{3102} {} {Stado wilków.}
+{3103} {} {Stado dzikich braminów.}
+{3104} {} {Dzikusów.}
+{3105} {} {Sk³ad Bia³ej Góry.}
+{3106} {} {Huntera.}
+{3107} {} {Z³oto!}
+{3108} {} {Henry Beamis.}
+{3109} {} {Przydro¿n¹ kawiarniê.}
+{3110} {} {Zniszczony bombowiec.}
+{3111} {} {Ciê¿arówkê Petro Chico.}
+{3112} {} {Krzyk ciszy.}
+{3113} {} {Movie Night Show.}
+{3114} {} {Flying Padre.}
+{3115} {} {Opady œniegu.}
+{3116} {} {Zagubion¹ kryjówkê.}
+{3117} {} {Mobiln¹ Fortecê.}
+{3118} {} {Legend City.}
+
+# Tabela spotkan 3 - FLAG_M
+{3150} {} {Red Ryder.}
+{3151} {} {spadaj¹ce ska³y!}
+{3152} {} {Stado kretoszczurów.}
+{3153} {} {Stado wilków.}
+{3154} {} {Cia³o gryzione przez bestie.}
+{3155} {} {Huntera.}
+{3156} {} {Dzikusów.}
+{3157} {} {Z³oto!}
+{3158} {} {Henry Beamis.}
+{3159} {} {Przydro¿n¹ kawiarniê.}
+{3160} {} {Zniszczony bombowiec.}
+{3161} {} {Ciê¿arówkê Petro Chico.}
+{3162} {} {Krzyk ciszy.}
+{3163} {} {Nocny pokaz filmowy.}
+{3164} {} {Zagubion¹ kryjówkê.}
+{3165} {} {Legend City.}
+
+# Tabela spotkan 4 - FLAG_R
+{3200} {} {Red Ryder.}
+{3201} {} {Stado kretoszczurów.}
+{3202} {} {Rabusi.}
+{3203} {} {Rabusi.}
+{3204} {} {Zbiega.}
+{3205} {} {Karawanê.}
+{3206} {} {Grupê kolonistów.}
+{3207} {} {Bezpañskie psy.}
+
+# Tabela spotkan 5 - RNGR_D
+{3250} {} {Red Ryder.}
+{3251} {} {burzê py³ow¹!}
+{3252} {} {Stado kojotów.}
+{3253} {} {Grupê Radskorpionów.}
+{3254} {} {bandytów.}
+{3255} {} {Rolnika.}
+{3256} {} {Rangerów.}
+{3257} {} {Rangerów œcigaj¹cych z³odziei byd³a.}
+{3258} {} {Scolopendry.}
+{3259} {} {Z³oto!}
+{3260} {} {Henry Beamis.}
+{3261} {} {Przydro¿n¹ kawiarniê.}
+{3262} {} {Zniszczony bombowiec.}
+{3263} {} {Ciê¿arówkê Petro Chico.}
+{3264} {} {Krzyk ciszy.}
+{3265} {} {Nocny pokaz filmowy.}
+{3266} {} {Opady œniegu.}
+{3267} {} {Zagubion¹ kryjówkê.}
+{3268} {} {Mobiln¹ Fortecê.}
+{3269} {} {Legend City.}
+{3270} {} {Bankrutuj¹cego rolnika.}
+{3271}{}{Przera¿aj¹cego potwora La Phantasma!}
+
+# Tabela spotkan 6 - DSRT_A
+{3300} {} {burzê py³ow¹!}
+{3301} {} {odwodnienie!}
+{3302} {} {Grupê Radskorpionów.}
+{3303} {} {Legendarnego Radskorpiona!}
+{3304} {} {Scolopendry.}
+{3305} {} {Z³oto!}
+{3306} {} {Henry Beamis.}
+{3307} {} {Roadside Cafe.}
+{3308} {} {Zniszczony bombowiec.}
+{3309} {} {Ciê¿arówkê Petro Chico.}
+{3310} {} {Krzyk ciszy.}
+{3311} {} {Nocny pokaz filmowy.}
+{3312} {} {Opady œniegu.}
+{3313} {} {Zagubion¹ kryjówkê.}
+{3314} {} {Mobiln¹ Fortecê.}
+{3315} {} {Legend City.}
+
+# Tabela spotkan 7 - DSRT_B
+{3350} {} {burzê py³ow¹!}
+{3351} {} {odwodnienie!}
+{3352} {} {Grupê Radskorpionów.}
+{3353} {} {Scolopendry.}
+{3354} {} {Rój modliszek.}
+{3355} {} {Z³oto!}
+{3356} {} {Henry Beamis.}
+{3357} {} {Przydro¿n¹ kawiarniê.}
+{3358} {} {Zniszczony bombowiec.}
+{3359} {} {Ciê¿arówkê Petro Chico.}
+{3360} {} {Krzyk ciszy.}
+{3361} {} {Nocny pokaz filmowy.}
+{3362} {} {Nieœmia³ego robota.}
+{3363} {} {Opady œniegu.}
+{3364} {} {Zagubion¹ kryjówkê.}
+{3365} {} {Mobiln¹ Fortecê.}
+{3366} {} {Legend City.}
+{3367} {} {Wrak samochodu.}
+
+# Tabela spotkan 8 - MEXI_D
+{3400} {} {Red Ryder.}
+{3401} {} {Grupê Radskorpionów.}
+{3402} {} {Rój modliszek.}
+{3403} {} {Scolopendry.}
+{3404} {} {Meksykañski patrol wojskowy.}
+{3405} {} {Grupê imigrantów.}
+{3406} {} {Cia³o imigranta, który zgin¹³ na pustyni.}
+{3407} {} {Walcz¹cych Meksykañców.}
+{3408} {} {Z³oto!}
+{3409} {} {Henry Beamis.}
+{3410} {} {Przydro¿n¹ kawiarniê.}
+{3411} {} {Zniszczony bombowiec.}
+{3412} {} {Ciê¿arówkê Petro Chico.}
+{3413} {} {Krzyk ciszy.}
+{3414} {} {Wieczorny pokaz filmu.}
+{3415} {} {Flying Padre.}
+{3416} {} {Opady œniegu.}
+{3417} {} {Mobiln¹ Fortecê.}
+{3418} {} {Legend City.}
+{3419} {} {Meksykanina uciekaj¹cego przed Stonog¹.}
+
+# Tabela spotkan 9 - MEXI_M
+{3450} {} {Red Ryder.}
+{3451} {} {spadaj¹ce ska³y!}
+{3452} {} {Stado kretoszczurów.}
+{3453} {} {Scolopendry.}
+{3454} {} {Meksykañski patrol wojskowy.}
+{3455} {} {Grupê imigrantów.}
+{3456} {} {Z³oto!}
+{3457} {} {Henry Beamis.}
+{3458} {} {Przydro¿n¹ kawiarniê.}
+{3459} {} {Zniszczony bombowiec.}
+{3460} {} {Ciê¿arówkê Petro Chico.}
+{3461} {} {Krzyk ciszy.}
+{3462} {} {wieczor filmowy.}
+{3463} {} {Flying Padre.}
+{3464} {} {Legend City.}
+
+# Tabela spotkan 10 - CALF_D
+{3500} {} {Red Ryder.}
+{3501} {} {radioaktywn¹ mg³ê!}
+{3502} {} {Stado szczurów.}
+{3503} {} {Grupê Radskorpionów.}
+{3504} {} {Kilku Padlinozerców.}
+{3505} {} {Pódro¿nika z psem.}
+{3506} {} {Z³oto!}
+{3507} {} {Henry Beamis.}
+{3508} {} {Przydro¿n¹ kawiarniê.}
+{3509} {} {Zniszczony bombowiec.}
+{3510} {} {Ciê¿arówkê Petro Chico.}
+{3511} {} {Krzyk ciszy.}
+{3512} {} {Movie Night Show.}
+{3513} {} {Opady œniegu.}
+{3514} {} {Zagubion¹ kryjówkê.}
+{3515} {} {Mobiln¹ Fortecê.}
+{3516} {} {Legend City.}
+
+# Tabela spotkan 11 - PHNX_D
+{3550} {} {Red Ryder.}
+{3551} {} {Stado szczurów.}
+{3552} {} {Bezpañskie psy.}
+{3553} {} {Gang Los Panchos.}
+{3554} {} {Gang Los Panchos.}
+{3555} {} {Gang Los Panchos.}
+{3556} {} {bandytów.}
+{3557} {} {bandytów.}
+{3558} {} {Grupê cywilów.}
+{3559} {} {Psycho.}
+{3560} {} {Gangsterów prowadz¹cych d³u¿nika.}
+{3561} {} {Opady œniegu.}
+{3562} {} {Zagubion¹ kryjówkê.}
+{3563} {} {Legend City.}
+
+# Tabela spotkan 12 - PHNX_M
+{3600} {} {radioaktywn¹ mg³ê!}
+{3601} {} {Grupê radioaktywnych mrówek.}
+{3602} {} {Cia³o pechowego rabusia.}
+{3603} {} {Samotnika.}
+{3604} {} {Wkurzonego Pana Pomocnika.}
+
+# Tabela spotkan 13 - ROAD_D
+{3650} {} {Red Ryder.}
+{3651} {} {Cia³o rzucone na droge.}
+{3652} {} {Stado szczurów.}
+{3653} {} {Grupê Radskorpionów.}
+{3654} {} {bandytów.}
+{3655} {} {bandytów.}
+{3656} {} {Wojowniców na drodze.}
+{3657} {} {Karawanê.}
+{3658} {} {Spl¹drowan¹ karawanê.}
+{3659} {} {Backbone vs. Bounty Hunteras.}
+{3660} {} {Zagubion¹ kryjówkê.}
+{3661} {} {Legend City.}
+
+# Tabela spotkan 14 - TUSN_D
+{3700} {} {Red Ryder.}
+{3701} {} {Stado szczurów.}
+{3702} {} {Grupê Radskorpionów.}
+{3703} {} {bandytów.}
+{3704} {} {Poszukiwaczy.}
+{3705} {} {Robota Zwiadowcê.}
+{3706} {} {Zw³oki zbieg³ego niewolnika.}
+{3707} {} {Cyberpsychola.}
+
+# Tabela spotkan 15 - TUSN_M
+{3750} {} {spadaj¹ce ska³y!}
+{3751} {} {Stado kretoszczurów.}
+{3752} {} {Stado wilków.}
+{3753} {} {Samców dziel¹cych terytorium.}
+{3754} {} {Pustelnika.}
+{3755} {} {Kanibala na polowaniu.}
+{3756} {} {Z³oto!}
+{3757} {} {Henry Beamis.}
+{3758} {} {Przydro¿n¹ kawiarniê.}
+{3759} {} {Zniszczony bombowiec.}
+{3760} {} {Ciê¿arówkê Petro Chico.}
+{3761} {} {Krzyk ciszy.}
+{3762} {} {Nocny pokaz filmowy.}
+{3763} {} {Zagubion¹ kryjówkê.}
+{3764} {} {Legend City.}
+
+# Tabela spotkan 16 - INFN_D
+{3800} {} {radioaktywn¹ mg³ê!}
+{3801} {} {Grupê radmrówek.}
+{3802} {} {Padlino¿erców.}
+{3803} {} {Grupê Rozpruwaczy.}
+{3804} {} {Agenta USBP.}
+{3805} {} {Harvey.}
+
+# Tabela spotkan 17 - PORT_D
+{3850} {} {Red Ryder.}
+{3851} {} {odwodnienie!}
+{3852} {} {Gigantyczne mrówki.}
+{3853} {} {Rój modliszek.}
+{3854} {} {Grupê Radskorpionów.}
+{3855} {} {Patrol Bractwa Stali.}
+
+# Tabela spotkan 18 - ISLD_D
+{3900} {} {Grupê rad mrówek badaj¹c¹ wybrze¿e.}
+{3901} {} {Potwora}
+{3902} {} {Cia³o wyrzucone na brzeg.}
+{3903} {} {Rybaków.}
+{3904} {} {Cia³o zwiadowcy.}
+{3905} {} {bandytów torturuj¹cych urzêdnika.}
+
+# Tabela spotkan 19 - ISLD_M
+{3950} {} {spadaj¹ce ska³y!}
+{3951} {} {radioaktywn¹ mg³ê!}
+{3952} {} {Grupê radmrówek.}
+{3953} {} {Potwory.}
+{3954} {} {Robota wojskowego.}
+{3955} {} {Pielgrzymów.}
+{3956} {} {Z³oto!}
+{3957} {} {Henry Beamis.}
+{3958} {} {Przydro¿n¹ kawiarniê.}
+{3959} {} {Zniszczony bombowiec.}
+{3960} {} {Ciê¿arówkê Petro Chico.}
+{3961} {} {Krzyk ciszy.}
+{3962} {} {Nocny pokaz filmowy.}
+{3963} {} {Flying Padre.}
+{3964} {} {Legend City.}
+
+# Tabela spotkan 20 - OCEAN_O
+{4000} {} {radioaktywn¹ mg³ê!}

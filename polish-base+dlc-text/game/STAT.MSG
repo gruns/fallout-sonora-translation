@@ -1,0 +1,134 @@
+################################################ # ####
+#
+# NAZWY FUNKCJI
+#
+################################################ # ####
+
+{100} {} {Si³a}
+{101} {} {Percepcja}
+{102} {} {Wytrzyma³oœæ}
+{103} {} {Charyzma}
+{104} {} {Inteligencja}
+{105} {} {Zrêcznoœæ}
+{106} {} {Szczêœcie}
+{107} {} {Maks. zdrowie}
+{108} {} {Maks. punkty akcji}
+{109} {} {Klasa zbroi}
+{110} {} {Szkody wrêcz}
+{111} {} {Szkody wrêcz}
+{112} {} {Maks. ³adunek}
+{113} {} {Inicjatywa}
+{114} {} {Tempo zdrow.}
+{115} {} {Szansa na kryt.}
+{116} {} {Ulepszone trafienie krytyczne}
+{117} {} {Limit szkód}
+{118} {} {Damage Limit Laser}
+{119} {} {Limit obra¿eñ, ogien}
+{120} {} {Damage Limit Plasma}
+{121} {} {Limit szkód, energia elektryczna}
+{122} {} {Damage Limit EMP}
+{123} {} {Limit obra¿eñ, wybuch}
+{124} {} {Odpornoœæ na uszkodzenia}
+{125} {} {Odpornoœæ na obra¿enia od laseru}
+{126} {} {Odpornoœæ na obra¿enia od oginia}
+{127} {} {Odpornoœæ na obra¿enia od plazmy}
+{128} {} {Odpornoœæ na uszkodzenia, elektrycznoœæ}
+{129} {} {Odpornoœæ na uszkodzenia, EMP}
+{130} {} {Odpornoœæ na obra¿enia, wybuch}
+{131} {} {Odpornoœæ na promieniowanie}
+{132} {} {Odpornoœæ na trucizny}
+{133} {} {Wiek}
+{134} {} {P³eæ}
+{135} {} {PW}
+{136} {} {Aktualny poziom zatrucia}
+{137} {} {Aktualny poziom napro.}
+
+################################################ # ####
+#
+# OPISY CHARAKTERYSTYKI
+#
+################################################ # ####
+
+# Podstawowy
+{200} {} {Czysta si³a fizyczna. Wysoka si³a jest konieczna dla postaci lubi¹cych mocno przy³o¿yæ. Wp³ywa na zdrowie, obra¿enia w zwarciu i udŸwig.}
+{201} {} {Umiejêtnoœci widzenia, s³yszenia, w¹chania i zauwa¿ania niezwyk³ych rzeczy. Wysoka percepcja jest wa¿na dla snajperów. Wp³ywa na walkê dystansow¹. }
+{202} {} {Wytrzyma³oœæ i krzepa fizyczna. Wp³ywa na zdrowie, odpornoœæ na truciznê i promieniowanie, szybkoœæ leczenia i punkty zdrowia przy awansie. }
+{203} {} {Po³¹czenie dobrego wygl¹du i uroku. Wysoka charyzma jest wa¿na dla ka¿dego, kto chce wp³ywaæ na innych za pomoc¹ s³ów. Wp³ywa na reakcjê innych postaci i ceny handlarzy.}
+{204} {} {Wiedza, m¹droœæ i umiejêtnoœæ podejmowania szybkich decyzji. Inteligencja jest wa¿na dla ka¿dej postaci. Wp³ywa na liczbê punktów umiejêtnoœci otrzymywan¹ przy awansie, treœæ dialogów i WIELE umiejêtnoœci.}
+{205} {} {Koordynacja ruchu i szybkoœæ. Zwinnoœæ jest niezbêdna dla ka¿dej aktywnej postaci. Wp³ywa na punkty akcji, klasê zbroi, reakcjê i wiele umiejêtnoœci.}
+{206} {} {Przeznaczenie. Karma. Du¿e lub niskie szczêœcie wp³ynie na postaæ - w ten czy inny sposób. Wydarzenia i sytuacje bêd¹ siê rozwijaæ w zale¿noœci od tego, jakie szczêœcie (lub pecha) ma twoja postaæ.}
+# Statystyki pochodne / niepochodne
+{207} {} {Ile obra¿eñ mo¿e odnieœæ twoja postaæ przed œmierci¹. Jeœli twoje zdrowie spadnie do 0 lub mniej, nie ¿yjesz.}
+{208} {} {Liczba dzia³añ, które twoja postaæ mo¿e wykonaæ w jednej turze podczas walki.}
+{209} {} {Zmienia szanse trafienia tej konkretnej postaci. Zale¿y od zrêcznoœci i noszonej zbroi.}
+{210} {} {Iloœæ dodatkowych obra¿eñ, jakie twoja postaæ zadaje w walce wrêcz.}
+{211} {} {Iloœæ dodatkowych obra¿eñ, jakie twoja postaæ zadaje w walce wrêcz.}
+{212} {} {Maksymalna waga ekwipunku, jak¹ twoja postaæ mo¿e unieœæ, w funtach.}
+{213} {} {Okreœla kolejnoœæ podczas tury, twojej postaci podczas walki.}
+{214} {} {Pod koniec ka¿dego dnia twoja postaæ bêdzie leczyc punkt zdrowia za ka¿dy punkt tej statystyki. Kiedy spisz, regenerujesz zdrowie co szeœæ godzin.}
+# Krytyczna szansa
+{215} {} {Szanse na trafienie krytyczne w walce rosn¹ wraz ze wzrostem tej statystyki.}
+{216} {} {Ulepszone trafienie krytyczne.}
+{217} {} {Limit szkód}
+{218} {} {Damage Limit Laser}
+{219} {} {Limit obra¿eñ, ogien}
+{220} {} {Damage Limit Plasma}
+{221} {} {Limit szkód, elektrycznoœæ}
+{222} {} {Limit szkód EMP}
+{223} {} {Wybuch z limitem obra¿eñ}
+# Odpornoœæ na uszkodzenia
+{224} {} {Wszelkie otrzymane obra¿enia s¹ zmniejszane o te liczbê. Odpornoœæ na obra¿enia wzrasta, gdy nosisz zbrojê.}
+{225} {} {Odpornoœæ na obra¿enia, laser}
+{226} {} {Odpornoœæ na obra¿enia, ogien}
+{227} {} {Odpornoœæ na obra¿enia, plazma}
+{228} {} {Odpornoœæ na obra¿enia, elektrycznoœæ}
+{229} {} {Odpornoœæ na obra¿enia, EMP}
+{230} {} {Odpornoœæ na obra¿enia, wybuch}
+# Odpornoœæ na promieniowanie
+{231} {} {Ekspozycja na promieniowanie jest zmniejszona o ten procent. Odpornoœæ na promieniowanie mo¿na zmieniæ w zale¿noœci od noszonej zbroi i u¿ytych chemikaliów przeciwdzia³aj¹cych promieniowaniu.}
+{232} {} {Zmniejsza obra¿enia od trucizny o tê wartoœæ.}
+{233} {} {Wiek}
+{234} {} {P³eæ}
+{235} {} {PW}
+{236} {} {Aktualny poziom zatrucia}
+{237} {} {Aktualny poziom prom.}
+
+################################################ # ####
+#
+# POZIOM GLOWNYCH CECH
+#
+################################################ # ####
+
+{301} {} {Dno!}
+{302} {} {Zle}
+{303} {} {Marnie}
+{304} {} {S³abo}
+{305} {} {Srednio}
+{306} {} {Dobrze}
+{307} {} {B.Dobrze}
+{308} {} {Swietnie}
+{309} {} {Idea³}
+{310} {} {EPICKO}
+
+################################################ # ####
+#
+#RESZTA
+#
+################################################ # ####
+
+# Nazwy
+{400} {} {Wolne punkty umiejêtnoœci}
+{401} {} {Level}
+{402} {} {Doœwiadczenie}
+{403} {} {Reputacja}
+{404} {} {Karma}
+
+# Opisy
+{500} {} {Punkty zdobyte za awansowanie. Mozna wydaæ na zwiêkszenie umiejêtnoœci zwyk³ych o 1% lub umiejêtnoœci podstawowych o 2% za ka¿dy wydany punkt.}
+{501} {} {Ogólny rozwój postaci. Okreœla twoje doœwiadczenie i umiejêtnoœci.}
+{502} {} {Nagroda za wykonanie okreœlonych misji lub pokonanie wroga w bitwie. Do awansowania potrzebne s¹ punkty doœwiadczenia.}
+{503} {} {Co œwiat wie o twoich czynach. Ta cecha wp³ywa na stosunek innych postaci do Ciebie.}
+{504} {} {Uogólnione znaczenie twojej karmy, dobra i z³a, wœród Pustkowi.}
+
+# Wiadomosci o zdobywaniu doœwiadczenia
+{600} {} {Awansujesz na nowy poziom doœwiadczenia.}

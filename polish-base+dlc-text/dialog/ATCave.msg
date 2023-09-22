@@ -1,0 +1,1 @@
+{100} {} {S³yszysz jak kupa kamieni uderza w przejœcie z og³uszaj¹cym hukiem. Teraz potwory zostan¹ w jaskini na dobre.}

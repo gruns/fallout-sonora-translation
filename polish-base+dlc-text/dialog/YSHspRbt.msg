@@ -1,0 +1,1 @@
+{110}{}{Pan Pielêgniarz, do us³ug!}

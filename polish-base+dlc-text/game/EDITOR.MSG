@@ -1,0 +1,362 @@
+{100} {} {GOTOWE}
+{101} {} {MENU}
+{102} {} {ANULUJ}
+{103} {} {PRINT}
+{104} {} {WIEK}
+{105} {} {PLEC}
+{106} {} {NAZWA}
+{107} {} {FACET}
+{108} {} {KOBIETA}
+{109} {} {OGOLNE}
+{110} {} {KARMA}
+{111} {} {ZABICI}
+{112} {} {Punkty um.}
+{113} {} {Level:}
+{114} {} {Dosw.:}
+{115} {} {Nast. poz.:}
+{116} {} {Punkty um.}
+{117} {} {UMIEJETNOSCI}
+{118} {} {Wszystkie punkty um. musz¹ zostaæ wydane,}
+{119} {} {przed rozpoczêciem gry!}
+#
+{120} {} {dodatkowe punkty}
+{121} {} {Liczba punktów, które mo¿na dodaæ do g³ównych cech.}
+{122} {} {Nastêpny poziom}
+{123} {} {Punkty doœwiadczenia wymagane do przejœcia na nastêpny poziom.}
+{124} {} {Umiejêtnoœci}
+{125} {} {KARMA}
+{126} {} {Zabici}
+{127} {} {Perki dodaj¹ dodatkowe cechy. Na co trzecim poziomie mo¿esz wybraæ jeden Perk.}
+{128} {} {Tutaj wyœwietlany jest wp³yw decyzji, które podejmujesz podczas gry.}
+{129} {} {Licznik pokazuj¹cy rodzaj i liczbê zabitych stworzeñ lub stworzeñ zabitych przez twoich towarzyszy.}
+{130} {} {punkty umiejêtnoœci}
+{131} {} {Dodatkowe punkty umiejêtnoœci mo¿na wykorzystaæ do zwiêkszenia umiejêtnoœci. Im lepiej opanujesz umiejêtnoœæ, tym wiêcej punktów bêdziesz potrzebowaæ, aby j¹ ulepszyæ.}
+#
+{132} {} {Maksymalny poziom.}
+{133} {} {Nie mo¿na uaktualniæ.}
+{134} {} {Minimalny poziom.}
+{135} {} {Nie mo¿na zmieniæ wersji.}
+{136} {} {Za ma³o punktów umiejêtnoœci.}
+{137} {} {Baza:}
+{138} {} {Pozosta³e}
+{139} {} {Wybierz zdolnoœci}
+{140} {} {Juz osi¹gn¹³eœ szczyt}
+{141} {} {trzy podstawowe umiejêtnoœci!}
+{142} {} {Wymagane podstawowe umiejêtnoœci}
+{143} {} {przed rozpoczêciem gry!}
+{144} {} {Podstawowe umiejêtnoœci}
+{145} {} {Umiejêtnoœci, w ktorych specjalizuje siê twoja postaæ. Ka¿da umiejêtnoœæ g³ówna zyskuje bonus + 20% na pocz¹tku i roœnie dwukrotnie szybciej. Do wyboru s¹ trzy podstawowe umiejêtnoœci.}
+{146} {} {Dodatkowe funkcje}
+{147} {} {Dodatkowe funkcje - wykoñczenie portretu twojej postaci. Wszystkie funkcje maj¹ pozytywny lub negatywny wp³yw. Podczas tworzenia postaci mo¿esz wybraæ maksymalnie dwie cechy.}
+{148} {} {Juz osi¹gn¹³eœ szczyt}
+{149} {} {dwie funkcje!}
+{150} {} {umiejêtnoœci}
+{151} {} {Umiejêtnoœci to nabyta wiedza. Umiejêtnoœci rosn¹ wraz z doœwiadczeniem, a tak¿e dziêki specjalnym wydarzeniom w grze. Im wy¿szy poziom umiejêtnoœci, tym lepiej sobie radzisz.}
+#
+{152} {} {WYBIERZ UMIEJETNOSC}
+{153} {} {NOWA FUNKCJA}
+{154} {} {STRACIC FUNKCJE}
+{155} {} {NOWA PODSTAWA UMIEJETNOSC}
+{156} {} {CECHY}
+#
+{157} {} {Wszystkie statystyki musz¹ mieœciæ siê w przedziale od 1 do 10}
+{158} {} {przed rozpoczêciem gry!}
+{160} {} {Ostrze¿enie: nazwa nie uleg³a zmianie.}
+{161} {} {U¿yæ mimo wszystko?}
+
+{175} {} {Dalej ur.:}
+
+# --------------------------------------------
+# Wyjasnienie podstawowych parametrow
+# --------------------------------------------
+
+{200} {} {Dno!}
+{201} {} {Zle}
+{202} {} {Marnie}
+{203} {} {S³abo}
+{204} {} {Srednio}
+{205} {} {Dobrze}
+{206} {} {B.Dobrze}
+{207} {} {Swietnie}
+{208} {} {Idea³}
+{209} {} {EPICKO}
+
+# --------------------------------------------
+# Wlasciwosci bohatera
+# --------------------------------------------
+
+{300} {} {Zdrowie}
+{301} {} {Punkty akcji}
+{302} {} {Klasa zbroi}
+{303} {} {Obr. wrêcz}
+{304} {} {Obr. wrêcz}
+{305} {} {Odp. na obr.}
+{306} {} {Odp. na trut.}
+{307} {} {Odp. na prom.}
+{308} {} {Inicjatywa}
+{309} {} {Tempo zdrow.}
+{310} {} {Szan. na kryt.}
+{311} {} {Maks. udŸwig}
+{312} {} {Zatrucie}
+{313} {} {Choroba popromienna}
+{314} {} {Uszkodzenie oczu}
+{315} {} {Z³amana prawa rêka}
+{316} {} {Z³amana lewa rêka}
+{317} {} {Z³amana prawa noga}
+{318} {} {Z³amana lewa noga}
+
+#
+# Opis wlasciwosci bohatera
+#
+{400} {} {Twoja postaæ zosta³a zatruta. Trucizna bêdzie ci szkodziæ przez jakiœ czas, dopóki nie zostaniesz wyleczony lub dopóki trucizna nie zostanie zwalczona przez twoje cia³o.}
+{401} {} {Twoja postaæ cierpi z powodu skutków ekspozycji na promieniowanie. Im bardziej jesteœ napromieniowany tym mocniej odczuwaæ to bêdzie twoje cia³o, mo¿esz nawet umrzeæ.}
+{402} {} {Twoja postaæ zosta³a powa¿nie zraniona w jedno lub dwoje oczu. Ma ona przez to obni¿on¹ Percepcjê.}
+{403} {} {Twoja postaæ ma z³aman¹ praw¹ rêkê. Jeœli jedna rêka jest uszkodzona, nie mo¿esz u¿ywaæ broni dwurêcznej. Jeœli obie rêce s¹ kontuzjowane, nie mo¿esz w ogóle u¿ywaæ broni.}
+{404} {} {Twoja postaæ ma z³aman¹ lew¹ rêkê. Jeœli jedna rêka jest uszkodzona, nie mo¿esz u¿ywaæ broni dwurêcznej. Jeœli obie rêce s¹ kontuzjowane, nie mo¿esz w ogóle u¿ywaæ broni.}
+{405} {} {Twoja postaæ ma uszkodzon¹ praw¹ nogê. Nie mo¿esz ju¿ biegaæ, a podczas walki przemieszczanie siê zu¿ywa wiêcej PA.}
+{406} {} {Twoja postaæ ma uszkodzon¹ lew¹ nogê. Nie mo¿esz ju¿ biegaæ, a podczas walki przemieszczanie siê zu¿ywa wiêcej PA.}
+
+# --------------------------------------------
+# Miesiecy
+# --------------------------------------------
+
+{500} {} {styczeñ}
+{501} {} {luty}
+{502} {} {marzec}
+{503} {} {kwiecieñ}
+{504} {} {maj}
+{505} {} {czerwiec}
+{506} {} {lipiec}
+{507} {} {sierpieñ}
+{508} {} {wrzesieñ}
+{509} {} {paŸdziernik}
+{510} {} {listopad}
+{511} {} {grudzieñ}
+
+# --------------------------------------------
+# Opcje menu drukowania znaków
+# --------------------------------------------
+
+{600} {} {ZAPISZ}
+{601} {} {POBIERZ}
+{602} {} {DO PLIKU}
+{603} {} {USUN}
+{604} {} {GOTOWE}
+{605} {} {Czy na pewno chcesz usunac}
+{606} {} {aktualny znak?}
+{607} {} {zapisano pomyslnie.}
+{608} {} {zaladowano pomyslnie.}
+{609} {} {ju¿ istnieje.}
+{610} {} {Czy chcesz przepisac?}
+{611} {} {Blad podczas zapisywania}
+{612} {} {Blad ladowania}
+{613} {} {Nieprawidlowy plik znaków.}
+{614} {} {Nieprawidlowe dane znaków.}
+{615} {} {Blad podczas czytania listy plikow!}
+{616} {} {PRINT}
+{617} {} {GRACZ}
+{618} {} {BLANK.GCD}
+
+# --------------------------------------------
+# Plik tekstowy ASCII zawierajacy tekst
+# --------------------------------------------
+
+{620} {} {UPADEK}
+{621} {} {KARTA VAULT-TEC}
+{622} {} {godz.}
+# -
+# -
+# {000} {} {Sila: 00 Punkty wytrzymalosci: 000/000 Sekwencja: 00}
+# {000} {} {Perception: 00 Armor Class: 000 Healing Rate: 00}
+# {000} {} {Wytrzymalosc: 00 Punkty akcji: 000 Szansa na trafienie krytyczne: 000%}
+# {000} {} {Charyzma: 00 Obrazenia w zwarciu: 000 Udzwig: 000 funtow.}
+# {000} {} {Intelligence: 00 Damage Res.: 000%}
+# {000} {} {Agility: 00 Radiation Res.: 000%}
+# {000} {} {Luck: 00 Poison Res.: 000%}
+#
+{623} {} {::: Statystyki :::}
+{624} {} {Si³a:}
+{625} {} {Zdrowie:}
+{626} {} {Inicjatywa:}
+# -
+{627} {} {Percepcja:}
+{628} {} {Klasa zbroi:}
+{629} {} {Szybkoœæ odzyskiwania:}
+# -
+{630} {} {Wytrzyma³oœæ:}
+{631} {} {Punkty akcji:}
+{632} {} {Szansa na krytyczna. cios:}
+# -
+{633} {} {Charyzma:}
+{634} {} {Obrazenia od zimna. broñ:}
+{635} {} {Max. waga ladunku:}
+# -
+{636} {} {Intelekt:}
+{637} {} {Odp. uszkodzic:}
+# -
+{638} {} {Zwinnoœæ:}
+{639} {} {Odp. zadowolony.:}
+# -
+{640} {} {Szczeœcie:}
+{641} {} {Odp. Ja dam:}
+# -
+# -
+{642} {} {Imiê:}
+{643} {} {Wiek:}
+{644} {} {P³eæ:}
+{645} {} {Mê¿czyzna}
+{646} {} {Kobieta}
+# -
+# {000} {} {Level: 00 Exp: 000 000 Nastepny poziom: 000 000}
+{647} {} {Level:}
+{648} {} {Doœwiadczenie:}
+{649} {} {Nast. poz.:}
+# -
+{650} {} {::: Funkcje :::}
+{651} {} {::: Umiejêtnoœci :::}
+{652} {} {::: Chwa³a :::}
+
+# -
+{653} {} {::: Umiejêtnoœci ::: ::: Zabite :::}
+# -
+{654} {} {::: Sprzet :::}
+# -
+{655} {} {Common. waga:}
+{656} {} {::: Uzale¿nienia :::}
+{657} {} {::: Reputation :::}
+
+# --------------------------------------------
+#Karmic tytuly
+# --------------------------------------------
+
+# --- Ogolne
+{1000} {} {Chwa³a}
+{1001} {} {Rozg³os}
+{1002} {} {Chwa³a}
+{1003} {} {}
+# --- Zaleznosci
+{1004} {} {Uzale¿nienie od Nuka Coli}
+{1005} {} {Uzale¿nienie od wygrzewu}
+{1006} {} {Uzale¿nienie od mentatów}
+{1007} ??{} {Uzale¿nienie od psycho}
+{1008} {} {Uzale¿nienie od promieniowania}
+{1009} {} {Uzale¿nienie od alkoholu}
+{1010} {} {Uzale¿nienie od sruby ?}
+{1011} {} {Uzale¿nienie od gier}
+# --- Tytuly karmiczne
+{1012} {} {Dzieciobójca}
+{1013} {} {Death Machine}
+{1014} {} {Wielki ³owca}
+{1015} {} {Zabójca potworów}
+{1016} {} {Spokojny wêdrowiec}
+# --- Rangi
+{1017} {} {Nowicjusz Bractwa Stali}
+{1018} {} {Skryba Bractwa Stali}
+{1019} {} {Rycerz Bractwa Stali}
+{1020} {} {Paladyn Bractwa Stali}
+{1021} {} {Zwiadowca Bractwa Stali}
+{1022} {} {Zdrajca Bractwa Stali}
+{1023} {} {Arizona Ranger}
+{1024} {} {Obserwator Ognia}
+{1025} {} {Wojownik szos}
+{1026} {} {Zbieg³y niewolnik}
+{1027} {} {Odrodzony}
+{1028} {} {Stra¿nik tradycji}
+{1029} {} {Niszczyciel tradycji}
+{1030} {} {Zawodowiec}
+
+#
+# Opis tytulow karmicznych
+#
+
+# --- Ogolne
+{1100} {} {Odzwierciedla twoj¹ obecn¹ chwa³ê wsród mieszkañców Pustkowi. Im wy¿sza s³awa, tym lepiej niektórzy ciê postrzegaj¹, ale i tym wiêcej siê od ciebie oczekuje.}
+{1101} {} {Zrobi³eœ wiele obrzydliwych rzeczy. I prawdopodobnie zrobisz jeszcze wiêcej. Uczciwi ludzie bed¹ ciê unikaæ, ale ludzie po drugiej stronie koncepcji dobra i honoru mog¹ ciê wzi¹æ za swojego.}
+{1102} {} {Twoje czyny uczyni³y z ciebie ludowego bohatera. Wieœci o wojnie, któr¹ wypowiedzia³eœ z³u i pod³oœci, rozesz³y siê po ca³ym regionie. Uczciwi ludzie bed¹ ciê bardziej szanowaæ.}
+{1103} {} {}
+# --- Zaleznosci
+{1104} {} {Jesteœ uzale¿niony od Nuka Coli. Musisz wzi¹æ ten napój, aby unikn¹æ skutków uzale¿nienia.}
+{1105} {} {Jesteœ uzale¿niony od wygrzewu. Musisz wzi¹æ ten lek, aby unikn¹æ skutków uzale¿nienia.}
+{1106} {} {Jesteœ uzale¿niony od mentatów. Musisz wzi¹æ ten lek, aby unikn¹æ skutków uzale¿nienia.}
+{1107} {} {Jesteœ uzale¿niony od psycho. Musisz wzi¹æ ten lek, aby unikn¹æ skutków uzale¿nienia.}
+{1108} {} {Jesteœ uzale¿niony od antyradów. Musisz wzi¹æ ten lek, aby unikn¹æ skutków uzale¿nienia.}
+{1109} {} {Masz problem z piciem. Oznacza to, ¿e musisz siê napiæ nawet jeœli nie chcesz.}
+{1110} {} {Jesteœ uzale¿niony od sruby ?. Musisz wzi¹æ ten lek, aby unikn¹æ skutków uzale¿nienia.}
+{1111} {} {Jesteœ uzale¿niony od hazardu.}
+# --- Tytuly karmiczne
+{1112} {} {Zabi³eœ dzieci, kwiaty w ruinach œwiata. Takie dzia³ania generalnie nie s¹ mile widziane. Jesteœ z³¹, bardzo z³¹ osob¹.}
+{1113} {} {Zabi³eœ wielu ludzi. I zrobi³eœ to ze smakiem. Osoby takie jak Ty nie s¹ lubiane przez wszystkich, nawet w œwiecie post-nuklearnym.}
+{1114} {} {Jesteœ naturalnym ³owc¹. Za³atwi³eœ tak wiele dzikich bestii, ¿e straci³eœ rachubê.}
+{1115} {} {Oczyszczanie wspó³czesnego œwiata z wszelkiego rodzaju mutantów sta³o siê twoim powo³aniem. Niektórych nape³niasz podziwem, a innych przera¿asz.}
+{1116} {} {Osi¹gn¹³eœ poziom 12 i z twojej winy zginê³o bardzo niewiele osób (a nawet ani jedna). Przy takim podejœciu do ¿ycia to cud, ¿e ty sam jeszcze ¿yjesz.}
+# --- Rangi
+{1117} {} {Twoja osoba zosta³a oficjalnie przyjêta w szeregi Bractwa Stali. Chocia¿ szkolenie jeszcze siê nie skoñczy³o, ju¿ wielu mówi o Twoich mo¿liwoœciach.}
+{1118} {} {Osi¹gn¹³eœ znacz¹cy sukces na swoim stanowisku, przynosz¹c korzyœci ogólnym celom Bractwa. Dlatego Starsi postanowili uznaæ ciê za znakomitego skrybê.}
+{1119} {} {Osi¹gn¹³eœ znacz¹cy sukces na swoim stanowisku, przynosz¹c korzyœci ogólnym celom Bractwa. Dlatego Starsi postanowili uznaæ ciê za znakomitego rycerza.}
+{1120} {} {Osi¹gn¹³eœ znacz¹cy sukces na swoim stanowisku, przynosz¹c korzyœci ogólnym celom Bractwa. Dlatego Starsi postanowili uznaæ ciê za znakomitego paladyna.}
+{1121} {} {Osi¹gn¹³eœ znacz¹cy sukces na swoim stanowisku, przynosz¹c korzyœci ogólnym celom Bractwa. Dlatego Starsi postanowili uznaæ ciê za znakomitego zwiadowcê.}
+{1122} {} {Zdradzi³eœ Bractwo Stali po tym wszystkim, co dla ciebie zrobili. Bractwo czegoœ takiego nie wybacza. Nigdy.}
+{1123} {} {Twoja osoba zosta³a oficjalnie przyjêta w szeregi Rangerów. Teraz Twoim obowi¹zkiem jest zaprowadzenie porz¹dku na Pustkowiach.}
+{1124} {} {Kult Ognia przyj¹³ twoj¹ postaæ do wewnêtrznego krêgu wtajemniczonych. Niewielu siê to uda³o.}
+{1125} {} {Zbiry z autostrady uwa¿aj¹ ciê teraz za swojego cz³owieka i s¹ gotowi przyjœæ ci z pomoc¹ w przysz³oœci.}
+{1126} {} {Jesteœ teraz wyjêty spod prawa. Bêdziesz musia³ nieustannie ukrywaæ siê przed przeœladowcami, dopóki nie odzyskasz wolnoœci od w³aœciciela niewolników.}
+{1127} {} {Jesteœ... przemieniony. Sta³eœ siê now¹ osob¹. Sprawia to, ¿e patrzysz na siebie w nowy sposób. I na ca³y œwiat dooko³a.}
+{1128} {} {Odrzuci³eœ postêp na rzecz zachowania tradycji. W ten sposób zainspirowa³eœ mieszkañców wioski i udowodni³eœ swoje oddanie ideom spo³ecznoœci.}
+{1129} {} {Odrzuci³eœ tradycje na rzecz postêpu. Masz swoje w³asne powody, ale wiêkszoœæ mieszkañców wioski nie zgadza siê z tob¹ w tej kwestii.}
+{1130} {} {Jesteœ mistrzem wagi ciê¿kiej Phoenix. Uda³o ci siê zdobyæ s³awê, szacunek i mi³oœæ tysiêcy fanów.}
+
+# --------------------------------------------
+# Tytuly reputacji w miastach
+# --------------------------------------------
+
+{2000} {} {Ubóstwiany}
+{2001} {} {Kochany}
+{2002} {} {Akceptowany}
+{2003} {} {Obojêtny}
+{2004} {} {Nielubiany}
+{2005} {} {Nienawidzony}
+{2006} {} {Przeklêty}
+
+{2100} {} {Wszyscy tutaj chc¹ byæ na twoim miejscu. Jesteœ kwiatem lokalnej spo³ecznoœci i doskona³ym wzorem do naœladowania we wszystkim.}
+{2101} {} {Ludzie tutaj machaj¹ do Ciebie, gdziekolwiek jesteœ. Ka¿dy coœ o Tobie s³ysza³ i zawsze coœ mi³ego.}
+{2102} {} {Chocia¿ nikt Ciê tu nie wita z otwartymi ramionami, wiêkszoœæ ludzi przynajmniej wita ciê skinieniem g³owy. Pasujesz tu.}
+{2103} {} {Chocia¿ miejscowi s¹ zwykle podejrzliwi wobec obcych, nie zdecydowali jeszcze, co o tobie myœleæ.}
+{2104} {} {Jesteœ tutaj kolejnym outsiderem. Nie oczekuje siê od ciebie niczego dobrego.}
+{2105} {} {Uda³o Ci siê udowodniæ tutejszym ludziom, ¿e ich pocz¹tkowa nieufnoœæ do ciebie nie by³a bezpodstawna. Przechodz¹c obok, ludzie szepcz¹ za twoimi plecami. Wiedz¹, ¿e nie mo¿na spodziewaæ siê po tobie niczego dobrego.}
+{2106} {} {Niektórzy przechodz¹ przez ulicê, aby siê z tob¹ nie spotkaæ, inni pluj¹ i odwracaj¹ siê, gdy siê zbli¿asz. Ale wszyscy wiedz¹, ¿e jesteœ najgorszym kretynem, jaki kiedykolwiek postawi³ tu nogê.}
+
+# --------------------------------------------
+# Glory GG na pustkowiach
+# --------------------------------------------
+
+{3000} {} {Mesjasz}
+{3001} {} {Stra¿nik Pustkowi}
+{3002} {} {Peacemaker}
+{3003} {} {Wys³aniec dobra}
+{3004} {} {W³óczêga}
+{3005} {} {Herald z³a}
+{3006} {} {Plugawiciel}
+{3007} {} {Plaga Pustkowi}
+{3008} {} {Diabe³}
+
+# --------------------------------------------
+# Inne sekcje
+# --------------------------------------------
+
+{4000} {} {Reputacja}
+{4001} {} {Uzale¿nienia}
+{4100} {} {Reprezentuje twoj¹ reputacjê w okolicy.}
+{4101} {} {Jesteœ uzale¿niony od tych u¿ywek.}
+
+# --------------------------------------------
+# Dla wersji demo
+# --------------------------------------------
+
+{5000} {} {Przepraszamy, drukuj znak}
+{5001} {} {dostepne tylko w pelnej wersji.}
+{5002} {} {Przepraszamy za zapisanie twojej postaci}
+{5003} {} {dostepne tylko w pelnej wersji.}
+{5004} {} {Przepraszamy za wczytanie postaci}
+{5005} {} {dostepne tylko w pelnej wersji.}
+{5006} {} {TRYB Z KODAMI}
+{5007} {} {Niedostepne w wersji demonstracyjnej.}

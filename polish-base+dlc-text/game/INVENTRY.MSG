@@ -1,0 +1,38 @@
+#
+# Etykiety w oknie ekwipunku
+#
+{0} {} {SI}
+{1} {} {PE}
+{2} {} {WY}
+{3} {} {CH}
+{4} {} {IN}
+{5} {} {ZR}
+{6} {} {SZ}
+{7} {} {Zdrowie}
+{8} {} {Klasa zbroi}
+{9} {} {Konw.}
+{10} {} {Laser}
+{11} {} {Ogieñ}
+{12} {} {Plasma}
+{13} {} {Wybuch}
+{14} {} {Broñ}
+{15} {} {Obra¿enia:}
+{16} {} {D / b:}
+{17} {} {B \ n}
+{18} {} {(nie nosi)}
+{19} {} {Za ma³o punktów akcji, aby u¿yæ sprzêtu.}
+{20} {} {Waga:}
+{21} {} {PRZENIES ELEMENTY}
+{22} {} {WSZYSTKO}
+{23} {} {USTAWIC TIMER}
+{24} {} {Obra¿enia:}
+{25} {} {Nie mo¿esz tego unieœæ. Twój udŸwig osi¹gn¹³ maksimum.}
+{26} {} {Nie ma miejsca na ten element.}
+{27} {} {OK, to niez³a umowa.}
+{28} {} {To za ma³o.}
+{29} {} {Otrzymujesz % d punktów doœwiadczenia za udan¹ kradzie¿.}
+{30} {} {waga.}
+{31} {} {Nie jesteœ w stanie unieœæ a¿ tyle.}
+{32} {} {Jest tego za du¿o, ¿eby móc to unieœæ.}
+
+{50} {} {Nie ma tu nic do zabrania, niczego nie znajdujesz.}

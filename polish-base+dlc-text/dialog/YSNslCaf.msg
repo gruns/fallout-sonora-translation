@@ -1,0 +1,1 @@
+{100}{}{Coœ mocno trzyma drzwi od œrodka.}

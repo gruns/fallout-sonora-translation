@@ -1,0 +1,314 @@
+#######################################################
+#
+#    ???????? ?????????? ? ????????? BIS
+#
+#######################################################
+
+{10}{}{<Nie>}
+
+#
+# ??? ?????????
+#
+{100} {} {Szk³o}
+{101} {} {Metal}
+{102} {} {Plastik}
+{103} {} {Drzewo}
+{104} {} {Ziemia}
+{105} {} {Kamieñ}
+{106} {} {Cement}
+{107} {} {Skóra}
+
+#
+# Typ zapasow
+#
+{150} {} {Odzie¿}
+{151} {} {Kontener}
+{152} {} {Chemia}
+{153} {} {Broñ}
+{154} {} {Amunicja}
+{155} {} {Ró¿ne}
+{156} {} {Klucz}
+
+#
+# Typ srodowiska
+#
+{200} {} {Drzwi}
+{201} {} {Drabina}
+{202} {} {Winda}
+{203} {} {Dó³ schodów}
+{204} {} {Szczyt schodów}
+{205} {} {Ogólny teren}
+
+#
+# Rodzaje uszkodzen
+#
+{250} {} {Konw.}
+{251} {} {Laser}
+{252} {} {Ogieñ}
+{253} {} {Plazma}
+{254} {} {Elektr.}
+{255} {} {EMR}
+{256} {} {Eksplozja}
+
+#
+# Kalibry amunicji
+#
+{300} {} {No}
+{301} {} {Paliwo}
+{302} {} {Blok nuklearny}
+{303} {} {Bateria C}
+{304} {} {Bateria D}
+{305} {} {12 gauge}
+{306} {} {.22LR}
+{307} {} {9 mm}
+{308} {} {10 mm}
+{309} {} {.44}
+{310} {} {.50}
+{311} {} {5 mm}
+{312} {} {.308}
+{313} {} {40 mm}
+{314} {} {SP}
+{315} {} {-}
+{316} {} {-}
+{317} {} {-}
+{318} {} {-}
+{319} {} {-}
+
+#
+#Wyscigi
+#
+{350} {} {Bia³a Rasa}
+{351} {} {Rasa Afrykañska}
+
+#
+# Typ cia³a
+#
+{400} {} {Dwuno¿ne stworzenie}
+{401} {} {Wielonogie stworzenie}
+{402} {} {Robot}
+#
+# Kill Types names
+#
+# Note: These were moved to 1450+ to handle new ones!
+{450} {} {Mezczyzni}
+{451} {} {Kobiety}
+{452} {} {Dzieci}
+{453} {} {Super mutanci}
+{454} {} {Ghule}
+{455} {} {Braminy}
+{456} {} {Radscorpiony}
+{457} {} {Szczury}
+{458} {} {Ulotki}
+{459} {} {Centaury}
+{460} {} {Roboty}
+{461} {} {Psy}
+{462} {} {Modliszki}
+{463} {} {Szpony Smierci}
+{464} {} {Rosliny}
+#
+# Kill type info descriptions
+#
+{465} {} {Liczba zabitych mezczyzn.}
+{466} {} {Liczba zabitych kobiet.}
+{467} {} {Liczba zabitych ludzkich dzieci.}
+{468} {} {Liczba zabitych super mutantów.}
+{469} {} {Liczba upiorów, które zabi³eœ.}
+{470} {} {Liczba braminów, ktorych zabi³eœ.}
+{471} {} {Liczba zabitych skorpionów.}
+{472} {} {Liczba zabitych szczurów i innych gryzoni.}
+{473} {} {Liczba zabitych Ulotek.}
+{474} {} {Liczba zmutowanych centaurów, które zabi³eœ.}
+{475} {} {Liczba zniszczonych robotów.}
+{476} {} {Liczba psów i innych stworzeñ w ich rodzinie, które zabi³eœ.}
+{477} {} {Liczba modliszek, które zabi³eœ.}
+{478} {} {Liczba Szponow Smierci i ich potomstwa, które zabi³eœ.}
+{479} {} {Liczba zabitych roslin miesozernych.}
+
+#
+# Use text
+#
+{480}{}{Masz przed sob¹ %s.}
+
+#
+# ????????????? ??????????
+#
+{485} {} {Przeszukujesz: % s.}
+{486} {} {Zamykasz: % s.}
+{487} {} {Zamkniête.}
+
+#
+# Kontrola obiektu
+#
+{490}{}{To % s.}
+{491}{}{Te zw³oki to % s.}
+{492}{}{Te szcz¹tki to % s.}
+{493} {} {Nie dostrzegasz nic niezwyk³ego.}
+
+#
+# Sprawdz tekst
+#
+{500} {} {jest martwa.}
+{501} {} {jest u wrót œmierci.}
+{502} {} {odnios³a powa¿ne obra¿enia.}
+{503} {} {jest lekko ranna.}
+{504} {} {jest w pe³ni si³.}
+
+#
+# Examine text messages
+#
+{510} {} {Rev. KB:% d}
+{511} {} {Rev. SU:% d}
+{512} {} {Zmien. Urn:% d /% d}
+{518} {} {Wygl¹dasz na osobê, która % s}
+{519} {} {% s% s}
+{520} {} {Wygl¹dasz na osobê, która % s}
+{521} {} {% s% s.}
+{522} {} {Wygl¹da na istotê, która % s}
+{523} {} {Wygl¹da na istotê, która % s}
+{524} {} {Wygl¹da na istotê, która % s}
+{525} {} {% s ma% d /% d zdrowia.}
+{526} {} {Amunicja:% d /% d % s.}
+{530}{}{ Na dodatek ma okaleczone koñczyny.}
+{531}{}{ Ma jednak okaleczone koñczyny.}
+{532}{}{ Na dodatek masz okaleczone koñczyny.}
+{533}{}{ Masz jednak okaleczone koñczyny.}
+{535} {} {Ma% d /% d PW}
+{536} {} {Ma% d /% d PW}
+{537} {} {Ma% d /% d PW}
+{540} {} {Wa¿y % d lb (s).}
+{541} {} {Wa¿y % d funtów.}
+{544} {} {}
+{545} {} {.}
+{546}{}{ Broñ, któr¹ dysponuje, to % s.}
+{547}{}{ Broñ, któr¹ dysponuje, to % s z ³adunkiem wystarczaj¹cym do oddania (% d /% d strza³ów jest nim %s).}
+{548} {} {Ten motor wydaje siê dzia³aæ. Ale jego komputer pok³adowy blokuje sterowanie.}
+{549} {} {Motor ma jeszcze % d %% mocy.}
+
+#
+# Sprawdz tekstowe komunikaty o bledach
+#
+{550} {} {Blad: wartosc_wyszukiwania poza zakresem!}
+{551} {} {Blad: obj_examine: proto_ptr nie dzia³a!}
+
+#
+# Uzywaj wiadomosci tekstowych
+#
+{580} {} {U¿ywasz % s.}
+{581} {} {U¿ywasz % s na % s.}
+{582} {} {To nic nie da.}
+{583} {} {Niestety, ale ta istota opuœci³a ju¿ ten œwiat.}
+{584} {} {Pochylaj¹c siê, zdajesz sobie sprawê, ¿e stworzenie nie ¿yje.}
+{585} {} {Niestety, za póŸno.}
+{586} {} {To nie zadzia³a na trupa.}
+{587} {} {Zapalasz flarê.}
+{588} {} {Flara jest ju¿ zapalona.}
+{589} {} {Ustawiasz licznik czasu.}
+{590} {} {Licznik jest ju¿ aktywowany!}
+{595} {} {Tankujesz motocykl.}
+{596} {} {Motocykl jest w pe³ni zatankowany.}
+{597} {} {Drzwi wygl¹daj¹ na zablokowane.}
+
+#
+# Wiadomosci punktów doœwiadczenia
+#
+{620} {} {Zdobywasz (% d) punktów doœwiadczenia za zabicie: % s.}
+{621} {} {% s zdobywasz (% d) punktów doœwiadczenia.}
+{622} {} {Za pokonanie swoich wrogów}
+{623} {} {Za zg³adzenie swoich przeciwników}
+{624} {} {Odnosisz zwyciêstwo w walce i}
+{625} {} {Za zmiecenie swoich przeciwników z powierzchni ziemi}
+{626} {} {Wychodzisz z tej walki bez jednego zadrapania, za co}
+
+#
+# Komunikaty dialogowe
+#
+{650} {} {[Gotowe]}
+{651} {} {[Next]}
+{652} {} {Next}
+{653} {} {[Back]}
+{654} {} {Back}
+{655} {} {Kontynuuj.}
+{656} {} {Uch...}
+{660} {} {Nie mo¿esz zobaczyæ, co siê tam dzieje.}
+{661} {} {Za daleko.}
+{670} {} {OK.}
+{671} {} {Oczywiœcie.}
+{672} {} {Jak sobie ¿yczysz.}
+{673} {} {Cokolwiek powiesz.}
+{674} {} {Spróbujê.}
+{675} {} {Nie mogê tego zrobiæ.}
+{676} {} {Nie s¹dzê, ¿eby to by³o mozliwe.}
+{677} {} {Aff!}
+{678} {} {Hau!}
+
+#
+# Wiadomosc za ma³o AP
+#
+{700} {} {Nie masz wystarczaj¹cej liczby punktów akcji.}
+#
+# Wiadomosci ksiazkowe
+#
+{800} {} {Czytasz tê ksi¹¿kê od deski do deski.}
+{801} {} {Nie uczysz siê niczego nowego.}
+{802} {} {Poznajesz nowe informacje z wielu dziedzin nauk.}
+{803} {} {Uczysz siê wiele na temat naprawy przeró¿nych urz¹dzeñ.}
+{804} {} {Uczysz siê nowych sposobów opatrywania i leczenia ran.}
+{805} {} {Uczysz siê lepiej pos³ugiwaæ broni¹ paln¹.}
+{806} {} {Uczysz siê wiele na temat survivalu.}
+#
+# Uzywaj w wiadomosciach (i kilku dodatkowych rzeczach, ktorych potrzebowal Jesse)
+#
+{900} {} {Skoñczy³y siê leki.}
+{901} {} {Skoñczy³y siê leki.}
+{902} {} {Nie mo¿esz tego zrobiæ podczas walki.}
+{903} {} {Ta postaæ nie chce z tob¹ handlowaæ.}
+{904} {} {Ten cz³owiek nie ma ci nic do powiedzenia.}
+{905} {} {Nie mo¿esz wzi¹æ tego przedmiotu. Masz ju¿ maksymaln¹ mo¿liw¹ wagê.}
+{910} {} {Skoñczy³y siê leki.}
+{911} {} {Skoñczy³y siê leki.}
+{913} {} {Ta istota nie mo¿e niczego nieœæ.}
+
+#
+# Opisy informacji o typie zabijania
+#
+{1450} {} {Mê¿czyŸni}
+{1451} {} {Kobiety}
+{1452} {} {Dzieci}
+{1453} {} {Super mutanci}
+{1454} {} {Ghule}
+{1455} {} {Braminy}
+{1456} {} {Radskorpiony}
+{1457} {} {Szczury}
+{1458} {} {MutoMuchy}
+{1459} {} {Centaury}
+{1460} {} {Roboty}
+{1461} {} {Psy}
+{1462} {} {Modliszki}
+{1463} {} {Szpony œmierci}
+{1464} {} {Roœliny}
+{1465} {} {Scolopendry}
+{1466} {} {Obcy}
+{1467} {} {Ogromne mrówki}
+{1468} {} {Wiêksze horrory pustkowii}
+#
+# Opisy informacji o typie zabijania
+#
+{1469} {} {Liczba zabitych mê¿czyzn.}
+{1470} {} {Liczba zabitych kobiet.}
+{1471} {} {Liczba zabitych ludzkich dzieci.}
+{1472} {} {Liczba zabitych super mutantów.}
+{1473} {} {Liczba upiorów, które zabi³eœ.}
+{1474} {} {Liczba braminów, które zabi³eœ.}
+{1475} {} {Liczba zabitych skorpionów.}
+{1476} {} {Liczba szczurów i innych gryzoni, które zabi³eœ.}
+{1477} {} {Liczba zabitych wisielców.}
+{1478} {} {Liczba zmutowanych centaurów, które zabi³eœ.}
+{1479} {} {Liczba zniszczonych robotów.}
+{1480} {} {Liczba zabitych psów, kojotów i wilków.}
+{1481} {} {Liczba modliszek, które zabi³eœ.}
+{1482} {} {Liczba Szponów Smierci i ich potomstwa, które zabi³eœ.}
+{1483} {} {Liczba zabitych roœlin miêso¿ernych.}
+{1484} {} {Liczba zabitych gigantycznych stonóg.}
+{1485} {} {Liczba zabitych przez ciebie obcych.}
+{1486} {} {Liczba zabitych mrówek.}
+{1487} {} {Liczba najwiêkszych i najgorszych gadów na ca³ym pustkowiu Sonora, które wys³a³eœ do przodków.}

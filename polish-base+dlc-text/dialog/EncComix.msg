@@ -1,0 +1,1 @@
+{100} {} {Ten numer by³ zaskakuj¹co pouczaj¹cy.}

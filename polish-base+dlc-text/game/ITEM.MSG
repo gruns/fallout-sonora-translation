@@ -1,0 +1,24 @@
+{1} {} {Otrzymujesz %d %s.}
+{2} {} {Tracisz %d %s.}
+{3} {} {Czujesz siê lepiej.}
+{4} {} {Masz œmiertelny zawa³ serca z powodu przedawkowania narkotyków.}
+{5} {} {%s nie ma czym na³adowaæ broni.}
+{6} {} {%s - status aktywny.}
+{7} {} {%s - status nieaktywny.}
+{8} {} {Sprawdzasz swoje cia³o licznikiem Geigera. Ekran wyœwietla: %d}
+{9} {} {Tego przedmiotu mozna u¿ywaæ tylko z poziomu HUD.}
+{10} {} {Nic siê nie dzieje.}
+
+{50} {} {Nic specjalnego siê nie dzieje.}
+{500} {} {Nie ma wystarczaj¹cej iloœci œwiat³a, aby na³adowaæ ten przedmiot.}
+{600} {} {%s ulega szkodliwemu dzia³aniu chemikaliów.}
+
+# Struny do obrazen broni
+{800} {} {Latwy}
+{801} {} {Medium}
+{802} {} {Hard}
+{803} {} {Extreme}
+# Ciagi zasiegu broni
+{820} {} {Krótki}
+{821} {} {Sredni}
+{822} {} {D³ugi}

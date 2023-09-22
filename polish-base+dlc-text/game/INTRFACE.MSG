@@ -1,0 +1,5 @@
+{100} {} {SKRADANIE}
+{101} {} {LEVEL}
+{102} {} {CPUN}
+{103} {} {ZATRUCIE}
+{104} {} {NAPROMIENIOWANIE}

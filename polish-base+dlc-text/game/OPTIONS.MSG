@@ -1,0 +1,75 @@
+#------------------------------------------------
+#   Опции главного меню
+#------------------------------------------------
+
+#-- Кнопки
+
+{0}{}{Zapisz}
+{1}{}{Wczytaj}
+{2}{}{Opcje}
+{3}{}{Wyjdz z gry}
+{4}{}{Anuluj}
+
+#-- Параметры
+
+{100}{}{ustawienia}
+{101}{}{TRUDNOSC GRY}
+{102} {} {TRUDNOSC WALKI}
+{103} {} {STOPIEN PRZEMOCY}
+{104} {} {OKRESL CEL}
+{105} {} {DIALOGI W WALCE}
+{106} {} {WIAD. W WALCE}
+{107} {} {BIEGANIE W WALCE}
+{108} {} {FILTR JEZYKOWY}
+{109} {} {BIEG}
+{110} {} {NAPISY}
+{111} {} {OBRYS PRZED.}
+{112} {} {PREDKOSC BITWY}
+{113} {} {OPOZNIONY TEKST}
+{114} {} {OGOLNA GLOS.}
+{115} {} {GLOSNOSC MUZYKI / WIDEO}
+{116} {} {GLOSNOSC EFEKTOW}
+{117} {} {GLOSNOSC MOWY}
+{118} {} {POZIOM JASNOSCI}
+{119} {} {WRAZLIWOSC MYSZY}
+{120} {} {RESET            ZAPISZ}
+{121} {} {ANULUJ}
+{122} {} {Wplyw na szybkosc znakow}
+{123} {} {Przemowienie Pip-Boya}
+
+# - Wyjasnienia
+
+{201} {} {Wl.}
+{202} {} {Wylacz}
+{203} {} {Latwy}
+{204} {} {Normalny}
+{205} {} {Trudny}
+{206} {} {Latwy}
+{207} {} {Normalny}
+{208} {} {Trudny}
+{209} {} {Normalny}
+{210} {} {Bardzo szybko}
+{211} {} {Krotkie}
+{212} {} {Dlugie}
+{213} {} {Tylko obrys}
+{214} {} {Nie}
+{215} {} {Minimum}
+{216} {} {MAX}
+{217} {} {Wolno}
+{218} {} {Szybciej}
+{219} {} {Zawsze}
+{220} {} {Wiele}
+{221} {} {Cicho}
+{222} {} {Glosno}
+{223} {} {Jasniej}
+{224} {} {Szeroki}
+
+# - Wstrzymaj gre
+
+{300} {} {GOTOWE}
+{301} {} {PAUSE}
+
+#-- Wersja demo
+
+{1000} {} {Przepraszamy, menu konfiguracji jest niedostepne}
+{1001} {} {w wersji demonstracyjnej.}

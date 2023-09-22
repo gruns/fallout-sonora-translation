@@ -1,0 +1,38 @@
+#
+# Nazwa cechy
+#
+{100} {} {Przyœ. metabolizm}
+{101} {} {Miêœniak}
+{102} {} {Drobna postura}
+{103} {} {Jednorêki}
+{104} {} {Finezja}
+{105} {} {Kamikaze}
+{106} {} {Ciê¿ka rêka}
+{107} {} {Szybki cyngiel}
+{108} {} {Krwawa jatka}
+{109} {} {Fatum}
+{110} {} {Mi³y z natury}
+{111} {} {Chemiozale¿noœæ}
+{112} {} {Chemioodpornoœæ}
+{113} {} {Villa Tradition}
+{114} {} {Kujon}
+{115} {} {Zdolniacha}
+#
+# Opis cechy
+#
+{200} {} {Twój metabolizm jest dwa razy szybszy ni¿ normalnie. Oznacza to, ¿e jesteœ bardziej podatny na dzia³anie trucizn i promieniowania, ale procesy regeneracji s¹ szybsze.}
+{201} {} {Poœwiêæ szybkoœæ za moc. Rzadko uderzasz, ale jeœli uderzysz, b¹dŸ pewien - zostanie to zauwa¿one! Twoja ³¹czna liczba punktów akcji zostaje zmniejszona o 2, ale Twoja si³a jest zwiêkszona równie¿ o 2.}
+{202} {} {Nie dorównujesz gabarytom innym mieszkañcom Villi, ale za to Twój ciê¿ar Ciê nie spowalnia. Nie jesteœ w stanie zbyt wiele udŸwign¹æ, lecz zyskujesz na zrêcznoœci. Wybranie tej cechy powoduje, ¿e Zrêcznoœæ wzrasta o 1, ale twój udŸwig zmniejsza siê.}
+{203} {} {Kontrolujesz jedn¹ rêkê znacznie lepiej ni¿ drug¹. Otrzymujesz premiê + 20% do szansy trafienia pistoletami i inn¹ broni¹ jednorêczn¹ oraz karê -40% w przypadku broni dwurêcznej.}
+{204} {} {Jak trafiæ to z gracj¹!. Zadajesz 30% mniej obra¿eñ, ale masz o 10% wiêksze szanse na trafienie krytyczne.}
+{205} {} {Jesteœ znacznie szybszy w walce. Nie masz ¿adnych dodatków do swojej klasy zbroi ze Zrêcznoœci (role odgrywa tylko to, co masz na sobie), ale zwiêksza siê Twoja inicjatywa.}
+{206} {} {Uderzasz mocniej, co nie znaczy, ¿e lepiej. Rzadko przydarza Ci siê zadaæ trafienie krytyczne, choæ w walce wrêcz zawsze wyrz¹dzasz przeciwnikom wiêcej szkód. Wybranie tej cechy powoduje, ¿e iloœæ obra¿eñ w walce wrêcz zwiêksza siê o 4.}
+{207} {} {Nie masz czasu na celowanie, wolisz od razu strzelaæ. Broñ dystansowa i rzucana wymaga o jeden punkt akcji mniej.}
+{208} {} {Dziwne zrz¹dzenie losu: ludzie wokó³ ciebie nieustannie umieraj¹ najokrutniejsz¹ œmierci¹. Ale jako bonus otrzymujesz znajomoœæ jêzyka hiszpañskiego (bez której komunikacja z Meksykanami bêdzie ciê¿ka).}
+{209} {} {Dobra wiadomoœæ jest taka, ¿e wszyscy wokó³ ciebie maj¹ niesamowitego pecha. Z³e wieœci: Ty te¿!}
+{210} {} {Jako dziecko i nastolatek wola³eœ spokojne zajêcia. W rezultacie twoje umiejêtnoœci walki s¹ niskie, ale twoje umiejêtnoœci leczenia, elokwencja i umiejêtnoœci handlowe s¹ znacznie lepsze.}
+{211} {} {O wiele ³atwiej przyzwyczajasz siê do chemikaliów. Twoje szanse na uzale¿nienie siê od narkotyków s¹ dwa razy wiêksze ni¿ u zwyk³ych ludzi, ale szybciej dochodzisz do siebie po efektach nastêpczych.}
+{212} {} {Chemikalia trwaj¹ po³owê czasu, ale twoje szanse na uzale¿nienie siê od nich s¹ o po³owê mniejsze ni¿ u innych.}
+{213} {} {Ograniczone ¿ycie w spo³ecznoœci ma swoje zalety i wady. Na pocz¹tku swojej przygody zdobêdziesz umiejêtnoœci Obserwacja i Edukacja, ale od teraz bêdziesz otrzymywaæ 20% mniej doœwiadczenia.}
+{214} {} {Skrupulatnie doskonalisz swoje umiejêtnoœci i otrzymujesz premiê w wysokoœci 5 punktów umiejêtnoœci na ka¿dym poziomie, ale perki odblokowywujesz co 4 poziomy.}
+{215} {} {Jesteœ wspania³y z natury, ale niewiele æwiczysz. Wszystkie twoje statystyki s¹ wy¿sze o 1, ale ka¿da umiejêtnoœæ na pocz¹tku gry jest o 10% mniejsza i dostajesz 5 punktów umiejêtnoœci mniej na poziom.}

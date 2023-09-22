@@ -1,0 +1,1 @@
+{110}{}{Widzisz zawór, który jest otwarty i dostarcza wodê do jednej z turbin.}

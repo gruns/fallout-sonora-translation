@@ -1,0 +1,44 @@
+{100} {} {WCZYTAJ}
+{101} {} {SZYBKIE LADOWANIE}
+{102} {} {ZAPISZ}
+{103} {} {SZYBKI ZAPISZ}
+{104} {} {GOTOWE}
+{105} {} {ANULUJ}
+{106} {} {Blad podczas wczytywania listy zapisanych gier!}
+{107} {} {Katalog zapisanych gier:}
+{108} {} {Nie istnieje lub jest uszkodzony.}
+{109} {} {ZAPISZ}
+{110} {} {WCZYTAJ}
+{111} {} {- PUSTY -}
+{112} {} {- USZKODZONY PLIK -}
+{113} {} {- STARA WERSJA -}
+{114} {} {Pusty.}
+{115} {} {Blad!}
+{116} {} {Stara wersja.}
+{117} {} {STY}
+{118} {} {LUT}
+{119} {} {MAR}
+{120} {} {KWI}
+{121} {} {MAJ}
+{122} {} {CZE}
+{123} {} {LIP}
+{124} {} {SIE}
+{125} {} {WRZ}
+{126} {} {PAZ}
+{127} {} {LIS}
+{128} {} {GRU}
+{129} {} {Level}
+{130} {} {DESCRIPTION}
+{131} {} {Miejsce jest ju¿ zajête. Nadpisaæ?}
+{132} {} {B³¹d podczas zapisywania gry!}
+{133} {} {Nie mo¿na zapisaæ gry.}
+{134} {} {Blad ladowania gry!}
+{135} {} {Nie mo¿na za³adowaæ gry.}
+{136} {} {Zapisany plik gry pochodzi ze starej wersji.}
+{137} {} {Mapa}
+
+{140} {} {Gra zapisana.}
+{141} {} {Gra wczytana.}
+
+{200} {} {Przepraszamy, zapisz i wczytaj gry}
+{201} {} {niedostepne w wersji demonstracyjnej.}

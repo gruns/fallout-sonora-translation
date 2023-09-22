@@ -1,0 +1,131 @@
+#FALLOUT: SONORA
+
+@ Gra zostala stworzona bazujac na Fallout 2
+@ w latach 2020-2021
+
+
+
+#- PROJEKT ZOSTAL WYKONANY PRZEZ -
+
+
+Alexander "BLACK DESIGNER" Poshelyuzhin
+@pomysl na projekt, projekt, scenariusz, skrypty,
+@Modelowanie 3D, sprite'y obiektow srodowiskowych,
+@Tekst gry, mapy lokacji, filmy z gry
+
+
+Aleksander "Red888guns" Berezin
+@Modelowanie 3D, sprite'y obiektow srodowiskowych,
+@ekwipunek, new critters i gadajace glowy,
+@video z eksplozja statku w wersji 1.10
+
+
+Osman "Wolfram" Adzhiusmanov
+@tworzenie filmu wprowadzajacego
+
+
+Grigory Sokolov
+@video z eksplozja w Puerto przed wersja 1.10,
+@konsultacje w sprawie video
+
+
+Denis "MASTER" Voloshin
+@kontrola jakosci, testowanie, dyskusja nad scenariuszem
+
+
+Dmitry Kuznetsov 
+@testowanie wersji 0.29 
+
+
+"Foxx"
+@instalator, adaptacja HRP i sfall
+
+Lexx
+@dodatkowe animacje dla NMLTHR.
+
+Enrique Barredo
+@konsultacja i tlumaczenie na jezyk hiszpanski
+
+
+David Ageev 
+@edycja tekstu gry (Garage City, Rangers, 
+@San Bramin, typowe obiekty, spotkania losowe) 
+
+
+Ilya Nizovskikh 
+@edycja tekstu gry (Flagpool, Tu-San, Casa Nueva) 
+
+
+Alexander "Vault_boy" Chernenko 
+@edycja tekstu gry
+@(Szakale, Phoenix, Stary Motel, Inferno, nagrania Pip-Boya) 
+
+
+Tainted Acolyte 
+@edycja tekstu gry (Casa Grande, Raiders)
+
+
+Elena Skryvaeva 
+@edycja tekstu gry (bledy plci i interpunkcyjne) 
+
+
+Dmitry "Jimmy J." Chepusov 
+@Glos w slajdach i filmie wprowadzajacym 
+
+
+Aleksey "NOBODYS NAIL MACHINE" Trofimov 
+@kompozytor
+
+
+@W napisach wstepnych i koncowych
+@ brzmi piosenka "La Cucaracha"
+@w wykonaniu Louisa Armstronga
+
+
+#SPOLSZCZENIE
+"Cassar"
+
+
+
+
+#- SPECJALNE PODZIEKOWANIA -
+
+@Dla czlonkow naszego forum i grupy VK.
+@Dzieki za wsparcie moralne,
+@krytyke i sugestie!
+
+
+Akop "Vaulter" Abrahamyan 
+@za nasza grupe VK 
+
+Egor "Vault 13" Ostapenko 
+@za wsparcie forum i informacyjne 
+
+WWW.FALLOUT-NEVADA.UCOZ.RU
+
+ALPOSH(a)MAIL.RU 
+@kontakt z Nevada Band 
+
+
+@Podczas pracy nad projektem,
+@uzyto nastepujacych programow do modowania Fallouta2:
+
+BIS mapper 
+Fallout 2 DAT explorer ver 1.43 
+sFall ScriptEditor ver 4.1.5.0 
+Frame Animator ver 2.51 by Jochua 
+AVI to MVE converter by ABel 
+@i inne 
+
+
+
+
+#- WSZELKIE PRAWA ZASTRZEZONE -
+
+@Kopiowanie, duplikowanie i reprodukcja 
+@tego programu i jakiejkolwiek jego czesci w celach komercyjnych
+@bez wyrazenia zgody ze strony posiadaczy praw autorskich
+@jest sprzeczne z prawem. 
+
+@Fallout trademarked by 
+Bethesda Softworks LLC

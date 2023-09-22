@@ -1,0 +1,247 @@
+#------------------------------------------------
+#   ???????? ??????
+#------------------------------------------------
+
+{101} {} {Obserwacja}
+{102} {} {Szybkie piêœci}
+{103} {} {Premia do obra¿eñ w zwarciu}
+{104} {} {Szybkie stopy}
+{105} {} {Premia do obra¿eñ od pocisków}
+{106} {} {Szybki palec}
+{107} {} {Pierwszy w kolejce}
+{108} {} {Przyœpieszone leczenie}
+{109} {} {Czêstsze TK}
+{110} {} {Nocny marek}
+{111} {} {Przyjaciel zwierz¹t}
+{112} {} {Odpornoœæ na promieniowanie}
+{113} {} {Twardziel}
+{114} {} {Silny grzbiet}
+{115} {} {Dok³adnoœæ}
+{116} {} {Cichy bieg}
+{117} {} {Traper}
+{118} {} {Mistrz targowania}
+{119} {} {Edukacja}
+{120} {} {Healer}
+{121} {} {Zmys³ padlino¿ercy}
+{122} {} {Lepsze TK}
+{123} {} {Empatia}
+{124} {} {Slayer}
+{125} {} {Snajper}
+{126} {} {Cicha smieræ}
+{127} {} {Cz³owiek czynu}
+{128} {} {! Reserve}
+{129} {} {Zyciodajna moc}
+{130} {} {Spryciarz}
+{131} {} {Szczepionka z trucizn}
+{132} {} {Geek}
+{133} {} {Medyk}
+{134} {} {Doœwiadczony z³odziej}
+{135} {} {Mówca}
+{136} {} {Zamach}
+{137} {} {Rider}
+{138} {} {Z³odziej}
+{139} {} {Duch}
+{140} {} {Forgotten Merit}
+{141}{}{!??????}
+{142} {} {Wieczny wêdrowiec}
+{143} {} {Odwyk}
+{144} {} {Obie¿y œwiat}
+{145} {} {Pocz¹tek mutacji}
+{146} {} {Poszukiwacz œcie¿ki}
+{147} {} {Tajemniczy nieznajomy}
+{148} {} {Intuicja wêdrowca}
+{149} {} {Szybki dostêp}
+{150} {} {Gadatliwy}
+{151} {} {Lebski}
+{152} {} {Bieg³oœæ!}
+{153} {} {Mutacja!}
+{154} {} {Uzale¿nienie od Nuka Coli}
+{155} {} {Uzale¿nienie od wygrzewu}
+{156} {} {Uzale¿nienie od mentatow}
+{157} {} {Uzale¿nienie od psycho}
+{158} {} {Uzale¿nienie od promieniowania}
+{159} {} {! Broñ - zasieg}
+{160} {} {! Broñ - celnosc}
+{161} {} {! Broñ - przebijanie zbroi}
+{162} {} {! Broñ - drop}
+{163} {} {! Pancerz - Moc I}
+{164} {} {! Zbroja - walka}
+{165} {} {! Broñ - optyka}
+{166} {} {! Broñ - usk. doladowac}
+{167} {} {! Broñ - Noktowizor}
+{168} {} {! Broñ - goracy facet}
+{169} {} {! Zbroja - Moc II}
+{170} {} {! Zbroja - Moc III}
+{171}{}{Zaleznosc od rekwizytów}
+{172}{}{!Rezerwa}
+{173}{}{! Zbroja - charyzma}
+{174}{}{!Rezerwa}
+{175}{}{Zahartowany bojownik}
+{176}{}{! Nie u¿ywaæ}
+{177}{}{! Nie u¿ywaæ}
+{178} {} {Mutacja wygl¹du}
+{179} {} {Mutacja fizjologiczna}
+{180} {} {Przyp³yw adrenaliny}
+{181} {} {Lekcje z pustkowi}
+{182} {} {Matlogic}
+{183} {} {Ekspert od wyburzeñ}
+{184} {} {Hazardzista}
+{185} {} {Przyrost si³y}
+{186} {} {Przyrost percepcji}
+{187} {} {Przyrost wytrzyma³oœci}
+{188} {} {Przyrost charyzmy}
+{189} {} {Przyrost inteligencji}
+{190} {} {Przyrost zrêcznoœci}
+{191} {} {Przyrost szczêœcia}
+{192} {} {Niewini¹tko}
+{193} {} {Tu i teraz!}
+{194} {} {Nietykalny}
+{195} {} {Znawca Sonory}
+{196} {} {Sztuczki z Hollywood}
+{197} {} {Lekki krok}
+{198} {} {Anatomia w pigu³ce}
+{199} {} {Zastraszanie}
+{200} {} {Negocjator}
+{201} {} {Padlino¿erca}
+{202} {} {Piromaniak}
+{203} {} {Pad³eœ-Powstañ}
+{204} {} {Kupiec}
+{205} {} {Cz³owiek-ska³a}
+{206} {} {Z³odziej}
+{207} {} {Obs³uga broni}
+{208} {} {Przedwojenna medycyna}
+{209} {} {Alkohol to zdrowie}
+{210} {} {Alkohol to zdrowie II}
+{211} {} {Alkohol pogarsza zdrowie}
+{212} {} {Alkohol pogarsza zdrowie II}
+{213} {} {Oczyszczenie}
+{214} {} {Oczyszczenie II}
+{215} {} {Szkodliwe promieniowanie}
+{216} {} {Szkodliwe promieniowanie II}
+{217} {} {! Zarezerwuj}
+{218} {} {! Broñ - nokaut}
+{219} {} {! Nie u¿ywaæ}
+
+#------------------------------------------------
+#   ???????? ??????
+#------------------------------------------------
+
+{1101} {} {Dok³adniejsza obserwacja daje ci mo¿liwoœæ dostrze¿enia kilku szczegó³ów o ka¿dym stworzeniu, na które patrzysz: dok³adn¹ liczbê punktów zdrowia, broñ i rodzaj amunicji.}
+{1102} {} {Do perfekcji opanowa³eœ sztuki walki, wiêc teraz ka¿dy atak rêkoma lub broni¹ bia³¹ kosztuje 1 AP mniej.}
+{1103} {} {Podnosisz swoj¹ sprawnoœæ bojow¹ w kierunku wiêkszych obra¿eñ. Ka¿dy poziom tej umiejêtnoœci pozwala zadaæ 2 dodatkowe punkty obra¿eñ atakiem wrêcz.}
+{1104} {} {Pustkowia nauczy³y ciê jak szybko uciekaæ przed wrogami. Masz teraz 2 dodatkowe AP w walce, ale mo¿na ich u¿ywaæ tylko do ruchu.}
+{1105} {} {Twoje doœwiadczenie z broni¹ strzeleck¹ uczyni³o z ciebie eksperta do walki dystansowej. Ka¿dy poziom tej umiejêtnoœci zwiêksza obra¿enia broni dystansowej o 2 punkty (za ka¿dy pocisk).}
+{1106} {} {Ta umiejêtnoœæ pozwala ci poci¹gn¹æ za spust trochê szybciej bez utraty celnoœci. Ka¿dy atak broni¹ dalekiego zasiêgu kosztuje 1 PA mniej.}
+{1107} {} {Masz wiêksze szanse na pokonanie przeciwników zanim w ogóle wykonaj¹ ruch, poniewa¿ ka¿dy poziom tej umiejêtnoœci zwiêksza twoj¹ inicjatywê o 2 punkty.}
+{1108} {} {Lubisz oszczêdzaæ stimpaki, wiêc otrzymujesz dodatkowe 2 punkty do szybkoœci leczenia. Oznacza to, ¿e twoje zdrowie bêdzie siê teraz szybciej regenerowaæ.}
+{1109} {} {Sta³eœ siê bardziej wyrachowany w walce. Ka¿dy poziom tej umiejêtnoœci zwiêksza Twoje szanse na trafienie krytyczne o 5%. To dobra rzecz.}
+{1110} {} {Dziêki twojemu nocnemu stylowi ¿ycia twoje oczy przystosowa³y siê do ciemnoœci. To nie tylko rozprasza ciemnoœæ dooko³a, ale tak¿e zwiêksza celnoœæ broni dystansowej w walce o 15%.}
+{1111} {} {Pozwala na chwilê uspokoiæ nierozs¹dne zwierzê, jeœli je karmisz. Ten proces przyœpiesza z ka¿d¹ rang¹.}
+{1112} {} {Masz wiêksze szanse na unikniêcie obra¿eñ spowodowanych promieniowaniem i ich konsekwencji. Ka¿dy poziom tej umiejêtnoœci zwiêksza twoj¹ odpornoœæ na promieniowanie o 15%.}
+{1113} {} {Twardziel zmniejsza otrzymywane przez ciebie obra¿enia. Ka¿dy poziom tej umiejêtnoœci zwiêksza twoj¹ ogóln¹ odpornoœæ na obra¿enia o 10%.}
+{1114} {} {Ka¿dy poziom tej umiejêtnoœci zwiêksza twój udŸwig o 50 funtów.}
+{1115} {} {Trenowa³eœ swoj¹ celnoœæ, jeœli chodzi o strzelanie do celu z dystansu. Ka¿dy poziom tej umiejêtnoœci zwiêksza twoj¹ percepcjê podczas strzelania o 2.}
+{1116} {} {Ta umiejêtnoœæ daje ci mo¿liwoœæ szybkiego i cichego poruszania siê. Oznacza to, ¿e mo¿esz biegaæ, u¿ywaj¹c ukrycia (bez tej umiejêtnoœci, ukrywanie siê jest wy³¹czone podczas biegania).}
+{1117} {} {Nauczy³eœ siê, jak przetrwaæ w nieludzkich warunkach dzikich post-nuklearnych pustkowii. Zwiêksza to umiejêtnoœæ przetrwania o 25%.}
+{1118} {} {Dowiesz siê jednego aspektu handlu: jak obni¿yæ cenê produktu. Ta umiejêtnoœæ zapewnia 25% zni¿ki przy zakupie przedmiotów w sklepie lub u innego sprzedawcy.}
+{1119} {} {Wiejska szko³a nie posz³a na marne. Ka¿dy poziom tej umiejêtnoœci daje 2 dodatkowe punkty umiejêtnoœci, gdy awansujesz. Im wczeœniej zdobêdziesz wykszta³cenie, tym wiêcej na tym zyskasz.}
+{1120} {} {Du¿o æwiczy³eœ na zwierzêtach i teraz mo¿esz lepiej leczyæ ludzi. Ka¿dy poziom tej umiejêtnoœci dodaje od 4 do 10 dodatkowych punktów zdrowia po wyleczeniu za pomoc¹ umiejêtnoœci.}
+{1121} {} {Masz talent do znajdowania cennych przedmiotów. Teraz jakoœæ i iloœæ takich znalezisk wzroœnie, a skrytki zostan¹ oznaczone znacznikami na minimapie. Ponadto handlarze nie oskubi¹ ciê do zera.}
+{1122} {} {Zadajesz teraz o 20% wiêcej obra¿eñ swoimi trafieniami krytycznymi. Zwróæ uwagê, ¿e chodzi o iloœæ obra¿eñ, a nie o szanse na trafienie krytyczne.}
+{1123} {} {Ci¹gle studiujesz innych ludzi, wiêc wiesz bardzo dobrze, jak zareaguj¹ na ciebie emocjonalnie. Poziom reakcji rozmówcy zobaczysz, jeœli bêdziesz z nim rozmawiaæ wystarczaj¹co d³ugo.}
+{1124} {} {Slayer zst¹pi³ na ziemiê! W walce wrêcz wszystkie twoje trafienia staj¹ siê krytyczne, powoduj¹c zniszczenie i chaos.}
+{1125} {} {Jesteœ mistrzem broni palnej. Szanse na trafienie krytyczne dla takiej broni wynosz¹ od teraz dziesiêciokrotnoœæ twojego szczêœcia. Strzelanie jeszcze nigdy nie by³o a¿ tak przyjemne.}
+{1126} {} {Jeœli dŸgniesz przeciwnika w plecy, gdy dzia³a Ukrycie, zadane zostan¹ podwójne obra¿enia. To w³aœnie oznacza Cicha œmieræ.}
+{1127} {} {Ka¿dy poziom cz³owieka (ewentualnie kobiety) czynu da ci w ka¿dej turze walki dodatkowy punkt akcji, którego mo¿esz u¿yæ do dowolnego celu.}
+{1128} {} {(Niezlomny umys³ w F1)}
+{1129} {} {Ka¿dy poziom tej umiejêtnoœci zapewnia 4 dodatkowe punkty zdrowia za ka¿dym razem, gdy wzrasta twój poziom doœwiadczenia. Jest to dodatek do punktów zdrowia, które otrzymujesz w oparciu o twoj¹ wytrzyma³oœæ.}
+{1130} {} {Jesteœ zbyt szybki, ¿eby ciê trafiæ podczas walki. Dostajesz +5 do swojej klasy zbroi (oprócz premii, ktor¹ daje sama zbroja).}
+{1131} {} {Przyzwyczai³eœ swoje cia³o do ró¿nych trucizn przez d³ugi czas podró¿y i teraz nie maj¹ one na ciebie ¿adnego wp³ywu. Ka¿dy poziom tej umiejêtnoœci zwiêksza twoj¹ odpornoœæ na trucizny o 25%.}
+{1132} {} {Jesteœ bardzo dobry w przedwojennej elektronice. Ta umiejêtnoœæ zwiêksza umiejêtnoœci naprawy i nauki o 10%.}
+{1133} {} {Przestudiowa³eœ wiele opcjonalnej literatury medycznej, przez co teraz znacznie lepiej rozumiesz teoriê, zwiêkszaj¹c w ten sposób odpowiedni¹ umiejêtnoœæ o 10%. Czas zastosowaæ wiedzê w praktyce.}
+{1134} {} {Doskonalisz swoje umiejêtnoœci z³odzieja, zyskuj³c + 15% do kradzie¿y i otwierania zamków. Zabieraj bogatym i dawaj biednym - to znaczy sobie.}
+{1135} {} {Mówca musi byæ przekonuj¹cy dlatego otrzymujesz + 20% do Retoryki.}
+{1136} {} {Ka¿dy poziom tej umiejêtnoœci daje +2 do Si³y (do 10) dla zwiêkszenia zasiêgu rzutu. Nie pozwoli ci to przekroczyæ maksymalnego zasiêgu broni.}
+{1137} {} {Uda³o ci siê dowiedzieæ wystarczaj¹co o budowie motocykla i sposobach jazdy na nim, wiêc mo¿esz zacz¹æ jeŸdziæ ju¿ teraz. Pozosta³o tylko znaleŸæ jakiœ motor.}
+{1138} {} {Sztuczki i spryt twoich r¹k zadziwiaj¹ nawet zawodowych z³odziei. Mo¿esz ukraœæ wszystko, poniewa¿ teraz rozmiar przedmiotu i kierunek spojrzenia ofiary nie maj¹ znaczenia podczas kradzie¿y.}
+{1139} {} {Po zachodzie s³oñca lub w s³abo oœwietlonych miejscach poruszasz siê jak duch. Twoja umiejêtnoœæ Skradania jest zwiêkszona o 20% w ciemnoœci.}
+{1140} {} {Mieszkañcy Pustkowi zapomnieli o twoich czynach, wiêc twoja karma (zarówno dobra, jak i z³a) znów jest zerowa. Dotyczy to równie¿ niektórych tytu³ów.}
+{1141} {} {(cpun w F1)}
+{1142} {} {Ta umiejêtnoœæ pozwala ci kontynuowaæ podró¿ po zakoñczeniu g³ównej misji.}
+{1143} {} {Jesteœ po leczeniu odwykowym. Ta umiejêtnoœæ zmniejsza szanse na uzale¿nienie siê od chemikaliów o 50%, a czas odstawienia bêdzie trwa³ o po³owê krócej.}
+{1144} {} {Nauczy³eœ siê, jak wybraæ w³aœciw¹ trasê i oszczêdzaæ energiê po drodze. Dlatego czas podró¿y po mapie œwiata zostaje skrócony o 25% (dla ka¿dej rangi umiejêtnoœci).}
+{1145} {} {Zosta³eœ nara¿ony na po³¹czone skutki nieznanego wirusa i potê¿nego promieniowania. Wkrótce doprowadzi to do nieodwracalnych konsekwencji dla twojego cia³a i staniesz siê inn¹... osob¹.}
+{1146} {} {Ostro¿nie eksplorujesz okolice u¿ywaj¹c starych map i z wysokich pozycji. Ta umiejêtnoœæ podwaja zasiêg widzenia na mapie œwiata i szanse na nietypowe spotkania.}
+{1147} {} {Ta umiejêtnoœæ zwraca uwagê tajemniczego nieznajomego, który pojawia siê od czasu do czasu, aby pomóc ci podczas przypadkowych spotkañ. Jeœli zginie w bitwie, nie spodziewaj siê, ¿e zostanie zast¹piony.}
+{1148} {} {Du¿o podró¿owa³eœ przez co rozwin¹³eœ specjaln¹ intuicjê. Ta umiejêtnoœæ zwiêksza twoj¹ umiejêtnoœæ przetrwania o 15% i zmniejsza o po³owê wysokoœæ promieniowania w lokacjach.}
+{1149} {} {Nauczy³eœ siê, jak prawid³owo pakowaæ swoje rzeczy. Dostêp do wyposa¿enia podczas walki kosztuje teraz tylko 2 punkty akcji zamiast 4.}
+{1150} {} {Nauczy³eœ siê prowadziæ znacz¹cy dialog, nie wiedz¹c, o czym jest rozmowa. Na czas rozmowy otrzymujesz +1 do Inteligencji, która rozszerza wybór pytañ i odpowiedzi.}
+{1151} {} {Lapiesz w locie, czyli uczysz siê szybko. Ka¿dy poziom tej umiejêtnoœci dodaje 5% do zdobywanego doœwiadczenia. Im szybciej nauczysz siê tej lekcji, tym wiêcej z niej wyci¹gniesz.}
+{1152} {} {Osi¹gn¹³eœ punkt, w którym mo¿esz wybraæ kolejn¹ podstawow¹ umiejêtnoœæ. Podstawowe umiejêtnoœci rosn¹ dwa razy szybciej.}
+{1153} {} {Promieniowanie pustkowi ciê zmieni³o! Jedna z twoich cech zmieni³a siê w coœ innego...}
+{1154} {} {Jesteœ uzale¿niony od Nuka-Coli. Musisz wzi¹æ ten napój, aby unikn¹æ skutków odstawienia.}
+{1155} {} {Jesteœ uzale¿niony od wygrzewu. Musisz wzi¹æ ten lek, aby unikn¹æ skutków odstawienia.}
+{1156} {} {Jesteœ uzale¿niony od mentatów. Musisz wzi¹æ ten lek, aby unikn¹æ skutków odstawienia.}
+{1157} {} {Jesteœ uzale¿niony od psycho. Musisz wzi¹æ ten lek, aby unikn¹æ skutków odstawienia.}
+{1158} {} {Jesteœ uzale¿niony od antyradów. Musisz wzi¹æ ten lek, aby unikn¹æ skutków odstawienia.}
+{1159} {} {Strza³ snajperski.}
+{1160} {} {Precyzyjne celowanie (+ 20% wskaŸnika trafieñ).}
+{1161} {} {Zwiêkszone przebijanie pancerza (+ 80% przebijanie pancerza).}
+{1162} {} {Odrzucanie wroga (szanse s¹ wiêksze ni¿ bez umiejêtnoœci - 1 pole za 5 punktów obra¿eñ).}
+{1163} {} {Pancerz wspomagany (+3 do si³y, +30 do odpornoœci na promieniowanie).}
+{1164} {} {Pancerz bojowy (+20 odpornoœæ na promieniowanie).}
+{1165} {} {Celownik teleskopowy (zmienia formu³ê obliczeniow¹ prawdopodobieñstwa trafienia).}
+{1166} {} {Szybkie prze³adowanie (prze³adowanie wymaga tylko 1 AP.}
+{1167} {} {Noktowizor (usuwa karê za ciemnoœæ).}
+{1168} {} {Gor¹cy typ (obni¿a próg animacji ofiary ognia).}
+{1169} {} {Wzmocniony pancerz wspomagany I (+4 do si³y, +60 odpornoœci na promieniowanie).}
+{1170} {} {Wzmocniony pancerz wspomagany II (+4 do si³y, +75 odpornoœci na promieniowanie).}
+{1171} {} {Jesteœ uzale¿niony od sruby. Musisz wzi¹æ ten lek, aby unikn¹æ odstawienia.}
+{1172} {} {(Tragic Addiction w F2)}
+{1173} {} {Imponuj¹ca zbroja (+2 Charyzma).}
+{1174} {} {(F2 skorujace gekony)}
+{1175} {} {Twoje cia³o zosta³o wzmocnione ci¹g³¹ presj¹ walk i treningów. Zyskujesz +5 do odpornoœci na zwyk³e obra¿enia i eksplozje.}
+{1176} {} {(Subcutaneous Armor II w F2)}
+{1177} {} {(Phoenix Armor I w F2)}
+{1178} {} {Twój proces mutacji jest zakoñczony. Twoja charyzma spad³a do minimum.}
+{1179} {} {Twój proces mutacji jest zakoñczony. Otrzymujesz dodatkowe +10 do odpornoœci na obra¿enia od energii (laser, plazma, ogieñ) i trucizny, a tak¿e stopniowe usuwanie promieniowania z organizmu.}
+{1180} {} {Ta umiejêtnoœæ zwiêksza twoj¹ Si³ê o 1 (do 10), gdy twoje zdrowie spadnie poni¿ej 50%.}
+{1181} {} {Wiele widzia³eœ podczas podró¿y, ale nie mia³eœ czasu, aby w³aœciwie utrwaliæ to doœwiadczenie. W rezultacie dos³ownie ka¿da twoja umiejêtnoœæ wzros³a, ale tylko o 2%. (Wzrost nast¹pi po zamkniêciu menu)}
+{1182} {} {Lubisz matematykê i twarde dane. Ta umiejêtnoœæ wyœwietla warunki, które przyczyniaj¹ siê do rozwi¹zania okreœlonego problemu.}
+{1183} {} {Opanowa³eœ technikê kierunkowego wybuchu i nauczy³eœ siê lepiej obliczaæ lokalizacje materia³ów wybuchowych. Dynamit bêdzie teraz zawsze eksplodowa³ na czas i zada 10 punktów obra¿eñ wiêcej.}
+{1184} {} {Rzucasz koœæmi jak nikt inny. A premia + 20% do umiejêtnoœci hazardowych jest tego najlepszym potwierdzeniem.}
+{1185} {} {Ta umiejêtnoœæ zwiêksza Si³ê twojej postaci o 1.}
+{1186} {} {Ta umiejêtnoœæ zwiêksza Percepcjê twojej postaci o 1.}
+{1187} {} {Ta umiejêtnoœæ zwiêksza Wytrzyma³oœæ twojej postaci o 1.}
+{1188} {} {Ta umiejêtnoœæ zwiêksza Charyzmê twojej postaci o 1.}
+{1189} {} {Ta umiejêtnoœæ zwiêksza Inteligencjê twojej postaci o 1.}
+{1190} {} {Ta umiejêtnoœæ zwiêksza Zrêcznoœæ twojej postaci o 1.}
+{1191} {} {Ta umiejêtnoœæ zwiêksza Szczêœcie twojej postaci o 1.}
+{1192} {} {Twoje niewinne zachowanie znacznie u³atwia proces kradzie¿y. Otrzymujesz 20% do umiejêtnoœci kradzie¿y i 50% szans na to, ¿e bêdziesz poza podejrzeniami, jeœli ci siê nie uda.}
+{1193} {} {Dzieki tej umiejêtnoœci natychmiast zdobêdziesz kolejny poziom doœwiadczenia.}
+{1194} {} {Jeœli aktywne miejsce na broñ jest puste, na koniec tury 1/12 twojej umiejêtnoœci walki wrêcz zostanie dodana do twojej klasy pancerza i +2 za ka¿dy niewykorzystany punkt akcji (zamiast zwyk³ego +1 ).}
+{1195} {} {Dobrze przestudiowa³eœ geografiê pustyni Sonora. Ta umiejêtnoœæ usuwa „mg³ê wojny” na mapie œwiata i zaznacza wszystkie dostêpne lokalizacje.}
+{1196} {} {Wiesz, jak popisywaæ siê publicznie. Ta umiejêtnoœæ podwaja reputacjê, któr¹ zyskujesz lub tracisz w wyniku swoich dzia³añ.}
+{1197} {} {Dziêki tej zdolnoœci nigdy nie wpadniesz w pu³apke naziemn¹ i zawsze z wyprzedzeniem zauwa¿ysz pu³apki na drzwiach i pojemnikach. Zmniejszone zostaj¹ równie¿ szkody spowodowane rozlanymi odpadami radioaktywnymi.}
+{1198} {} {Teraz lepiej znasz s³aboœci organicznych stworzeñ. Dlatego z ka¿dym atakiem w kierunku ¿ywej istoty zadajesz 5 dodatkowych punktów obra¿eñ, a tak¿e otrzymujesz 10% premii do umiejêtnoœci medycznych.}
+{1199} {} {W walce mo¿esz zastraszyæ przeciwnika, aby porzuci³ zamierzony atak. Im wy¿sza Twoja charyzma, tym wiêksze prawdopodobieñstwo sukcesu. Niestety to nie zadzia³a w przypadku szczególnie trudnych przeciwników.}
+{1200} {} {Jesteœ teraz bardziej bieg³y w negocjacjach. Ta umiejêtnoœæ zwiêksza umiejêtnoœci handlu i mowy o 10%.}
+{1201} {} {Twoje doœwiadczenie w zbieraniu wszystkich œmieci z ruin pozwala lepiej radziæ sobie z ich rozmieszczeniem w plecaku. Dzieki temu mo¿esz zabraæ ze sob¹ jeszcze wiêcej przedmiotów (+50 do maksymalnej wagi).}
+{1202} {} {Zadajesz dodatkowe obra¿enia, gdy u¿ywasz miotaczy ognia i podobnej broni, a twoi przeciwnicy odt¹d umieraj¹ w najgorszej piekielnej agonii.}
+{1203} {} {Po powaleniu bardzo szybko dochodzisz do siebie. Teraz wstanie na nogi po upadku w bitwie wymaga 1 punktu akcji zamiast zwyk³ych 3.}
+{1204} {} {Jesteœ urodzonym kupcem. Ta umiejêtnoœæ dodaje + 20% do umiejêtnoœci handlu.}
+{1205} {} {Masz oko³o piêæ razy mniejsze prawdopodobieñstwo, ¿e zostaniesz powalony w walce.}
+{1206} {} {Ta umiejêtnoœæ daje jednorazowy bonus w postaci + 10% bonus do umiejêtnoœci Skradania, Otwierania zamków, Kradzie¿y i Pu³apek. Dobry z³odziej to ¿ywy z³odziej.}
+{1207} {} {Potrafisz pos³ugiwaæ siê du¿o wiêksz¹ broni¹ ni¿ normalny cz³owiek twojego wzrostu. Zyskujesz +3 do Si³y, by trzymaæ broñ.}
+{1208} {} {Opanowa³eœ ró¿ne przedwojenne metody leczenia, które Wyznawcy Apokalipsy zdo³ali zachowaæ i ci przekazaæ. Zwiêksza to umiejêtnoœæ Medycyny o 10%.}
+{1209} {} {Ciag³e picie zwiêkszy³o twoje zdrowie o 2 punkty.}
+{1210} {} {Ciag³e picie zwiêkszy³o twoje zdrowie o 4 punkty.}
+{1211} {} {Z powodu ci¹g³ego picia Twoje zdrowie spad³o o 2 punkty.}
+{1212} {} {Z powodu ci¹g³ego picia Twoje zdrowie spad³o o 4 punkty.}
+{1213} {} {Przeszed³eœ przedwojenny kurs rehabilitacji medycznej i poprawy stanu zdrowia. W rezultacie Twoje maksymalne zdrowie jest o 2 punkty wy¿sze.}
+{1214} {} {Przeszed³eœ przedwojenn¹ rehabilitacjê medyczn¹ i poprawê zdrowia. W rezultacie Twoje maksymalne zdrowie jest o 4 punkty wy¿sze.}
+{1215} {} {Twoje zdrowie spad³o o 2 punkty z powodu szkodliwych skutków wysokich dawek promieniowania. Niestety efekt jest nieodwracalny.}
+{1216} {} {Twoje zdrowie spad³o o 4 punkty z powodu szkodliwych skutków wysokich dawek promieniowania. Niestety efekt jest nieodwracalny.}
+{1217} {} {(F2 Extraction Expert Expert) Ta umiejêtnoœæ zwiêksza twoj¹ umiejêtnoœæ Retoryki o 5%.}
+{1218} {} {Zwiêkszona szansa na nokaut za pomoc¹ ciosów broni¹.}
+{1219}{}{(????????? ? F2)}

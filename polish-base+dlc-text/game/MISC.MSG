@@ -1,0 +1,99 @@
+# ------------------------------------------------- -
+# Opcje interfejsu
+# ------------------------------------------------- -
+{0} {} {Czy na pewno chcesz wyjœæ?}
+{1} {} {Wersja demonstracyjna}
+{2} {} {Zostanie uzyty znak domyslny.}
+{3} {} {Zrzut ekranu zosta³ zapisany.}
+{4} {} {Szybkie ³adowanie gry powiod³o siê.}
+{5} {} {Szybki zapis powiód³ siê.}
+{6} {} {Wersja demo wygasla.}
+{7} {} {Pip-Boy nie jest dostêpny podczas walki!}
+{8} {} {Blad podczas zapisywania zrzutu ekranu.}
+{9} {} {WSTEP}
+{10} {} {NOWA GRA}
+{11} {} {WCZYTAJ}
+{12} {} {OPCJE}
+{13} {} {TWORCY}
+{14} {} {EXIT}
+{15} {} {Punkty akcji}
+{16} {} {Zdrowie}
+{17} {} {Brak zainstalowanego czujnika ruchu.}
+{18} {} {Czujnik ruchu siê wyczerpa³.}
+{20} {} {(c) Fan Development, 2020-2021}
+
+{30} {} {Czy chcesz kontynuowac gre?}
+{50} {} {Wloz dysk, aby rozpoczac gre!}
+{100} {} {Blad podczas zapisywania pliku konfiguracyjnego gry!}
+{101} {} {Ustawienia gry nie zostaly zapisane.}
+
+# ------------------------------------------------- -
+# Niektore wiadomosci radiacyjne uzywane w critter.c
+# ------------------------------------------------- -
+{1000}{}{Odczuwasz silne md³oœci.}
+{1001}{}{Odczuwasz silne md³oœci, a po lekkich wymiotach tak¿e niewielkie zmêczenie.}
+{1002}{}{Odczuwasz silne zmêczenie, wymiotom nie ma koñca, a tempo twojego zdrowienia uleg³o pogorszeniu.}
+{1003}{}{Obficie krwawisz, jest ci bardzo niedobrze, a ponadto wypadaj¹ ci w³osy.}
+{1004}{}{Obficie i bezustannie krwawisz. Nawet twoje wymiociny zabarwione s¹ krwi¹. Skóra odpada z ciebie p³atami.}
+{1005}{}{Pojawi³ siê silny krwotok wewnêtrzny po³¹czony z ciê¿k¹ biegunk¹. Masz wra¿enie, ¿e spuch³o ci ca³e cia³o, pogr¹¿asz siê w bolesnej agonii.}
+{1006}{}{Umierasz na chorobê popromienn¹.}
+{1007}{}{Otrzymujesz du¿¹ dawkê promieniowania.}
+{1008}{}{Licznik Geigera trzeszczy.}
+{1009}{}{Licznik Geigera szaleñczo trzeszczy.}
+#
+# Wiadomosc uzywana w akcjach. C
+#
+{2000}{}{W tym momencie nie potrafisz siê tam dostaæ.}
+{2001}{}{Zamek jest zaklinowany.}
+#
+# trujace wiadomosci z critter.c
+#
+{3000}{}{Ulegasz zatruciu!}
+{3001}{}{Ponosisz obra¿enia wskutek zatrucia.}
+{3002}{}{Czujesz siê nieco lepiej.}
+{3003}{}{Czujesz siê znacznie lepiej.}
+#
+# z queue.c
+#
+{4000}{}{Z powodu twojej nieudolnoœci ³adunek detonuje przedwczeœnie.}
+#
+# z combatai.c
+#
+{5000}{}{u¿ywa }
+{5001}{}{nie ma amunicji do prze³adowania broni:}
+{5002}{}{prze³adowuje }
+#
+# z gdialog.c - nowy opowiedz mi o rzeczach
+#
+{6000} {} {O co zapytac?}
+{7000} {} {Nie masz ze soba Pip-Boya!}
+{8000} {} {Jesteœ przeci¹¿ony.}
+{8001} {} {%s niesie za du¿o.}
+{8500} {} {Zdobywasz %d doœwiadczenia za u¿ywanie umiejêtnoœci przetrwania.}
+
+# ------------------------------------------------- -
+# Repliki nad glowa czlonkow druzyny, gdy osiagna nowy poziom
+# ------------------------------------------------- -
+
+{9000} {} {% s nabiera nowych cech.}
+
+{9010} {} {Wow. Có¿ za nieoczekiwany przyp³yw doœwiadczeñ.}
+{9011} {} {Jeden poziom wy¿ej, kochanie! Poziom wy¿ej!}
+{9012} {} {Czujê wielki przyp³yw mocy. Wygl¹da na to, ¿e poprawi³y siê wszystkie moje umiejêtnoœci (+%).}
+{9013} {} {Czujê siê fajniejszy. Silniejszy. M¹drzejszy.}
+
+{9020} {} {Chcê wiedzieæ wiêcej!}
+{9021} {} {Mam œwietn¹ teoriê!}
+{9022} {} {Wszystko co genialne, jest proste.}
+
+{9030} {} {Szkolenie nie posz³o na marne.}
+{9031} {} {Ciekawe czy zostanê awansowany po tych wszystkich podró¿ach?}
+{9032} {} {Jestem coraz silniejszy. Zakon powinien wykonywaæ wiêcej pracy w terenie.}
+
+{9040} {} {Wiesz, jestem w tym coraz lepszy.}
+{9041} {} {Teraz na pewno trafiê w dziesi¹tkê.}
+{9042} {} {Myœlê, ¿e jestem teraz gotowy na wielk¹ przygodê.}
+
+{9050} {} {Ach, gdyby tylko moi bracia i siostry o tym wiedzieli...}
+{9051} {} {Teraz rozumiem, ¿e wiedza jest bezwartoœciowa bez praktyki.}
+{9052} {} {Dziêkujê za nasz¹ podró¿.}

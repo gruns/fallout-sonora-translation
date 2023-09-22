@@ -1,0 +1,1 @@
+{100} {} {Demonta¿ wisiorka daje 6 naboi kalibru .308 i 8 nabojów kalibru .44 .}

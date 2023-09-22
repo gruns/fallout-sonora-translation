@@ -1,0 +1,1 @@
+{102} {} {Co, ju¿ nie warczysz?!}

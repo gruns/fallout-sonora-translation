@@ -1,0 +1,1 @@
+{100}{}{Idziesz na stacjê, ale nie znajdujesz tam nic wartoœciowego i wracasz.}
